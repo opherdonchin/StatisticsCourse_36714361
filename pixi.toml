@@ -1,0 +1,37 @@
+[project]
+authors = ["Opher Donchin <donchin@bgu.ac.il>"]
+channels = ["conda-forge"]
+name = "pymc_environment"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+arviz = "*"
+pymc = "*"
+python = "*"
+ipython = "*"
+ipykernel = "*"
+ipywidgets = "*"
+ipympl = "*"
+graphviz = "*"
+notebook = "*"
+matplotlib = "*"
+numpy = "*"
+numba = "*"
+scipy = "*"
+pandas = "*"
+xarray = "*"
+pip = "*"
+pydot = "*"
+nbconvert = "*"
+jupytext = "*"
+networkx = "*"
+
+[pypi-dependencies]
+bambi = "*"
+kulprit = "*"
+nutpie = "*"
+preliz = "*"
+threadpoolctl = "*"
