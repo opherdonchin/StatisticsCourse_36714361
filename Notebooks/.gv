@@ -1,0 +1,16 @@
+digraph {
+	"σ" [label="σ
+~
+HalfNormal" shape=ellipse]
+	"μ" [label="μ
+~
+Normal" shape=ellipse]
+	subgraph cluster1776 {
+		y [label="y
+~
+Normal" shape=ellipse style=filled]
+		label=1776 labeljust=r labelloc=b style=rounded
+	}
+	"σ" -> y
+	"μ" -> y
+}
