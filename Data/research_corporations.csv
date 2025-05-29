@@ -1,0 +1,10 @@
+results,funding,count
+positive,corporations,14
+neutral,corporations,5
+negative,corporations,3
+positive,independent,24
+neutral,independent,8
+negative,independent,20
+positive,oppose_corporations,0
+neutral,oppose_corporations,1
+negative,oppose_corporations,1
