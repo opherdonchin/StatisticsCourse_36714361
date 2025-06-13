@@ -1,0 +1,48 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, angles, quotes, calc}
+
+\begin{document}
+\begin{tikzpicture}[scale=2.5, thick, >=Stealth, every node/.style={font=\large}]
+
+% Define joint positions
+\coordinate (O) at (0,0);                  % Shoulder (origin)
+\coordinate (E) at (1,0.5);                % Elbow
+\coordinate (H) at (1.8,1.3);              % Hand
+
+% Links
+\draw (O) -- (E) node[midway, below right] {$l_1$};
+\draw (E) -- (H) node[midway, above right] {$l_2$};
+
+% Dashed lines for reference axes
+\draw[dashed] (O) -- (2.2, 0);           % Horizontal from shoulder
+\path let \p1 = (E), \p2 = (H) in
+  \pgfextra{\pgfmathsetmacro{\angleE}{atan2(\y2-\y1,\x2-\x1)}}; % get angle
+\draw[dashed] (E) -- ++(\angleE:1);      % Dashed extension of upper arm
+
+% Joints
+\filldraw[black] (O) circle (0.03);
+\filldraw[black] (E) circle (0.03);
+\filldraw[black] (H) circle (0.03);
+
+% Labels
+\node[below left] at (O) {Shoulder joint\\$(0,0)$};
+\node[below right] at (E) {Elbow joint\\$(E_x,E_y)$};
+\node[above right] at (H) {Hand\\$(H_x,H_y)$};
+
+% Axes
+\draw[->] (-0.2,0) -- (0.5,0) node[right] {$+x$};
+\draw[->] (0,-0.2) -- (0,0.5) node[above] {$+y$};
+
+% Angles (using pic)
+\path (2.2,0) coordinate (Xaxis);         % fake x-direction point
+\pic[draw=black, ->, angle radius=8mm, "$\theta_1$"] {angle=Xaxis--O--E};
+
+\coordinate (ext) at ($(E) + (1,0)$);     % fake horizontal from elbow
+\pic[draw=black, ->, angle radius=8mm, "$\theta_2$"] {angle=ext--E--H};
+
+% Caption
+\node[below=1.2cm of O, align=center] {Schematic of a simple kinematic model\\of a two-joint arm};
+
+\end{tikzpicture}
+\end{document}
