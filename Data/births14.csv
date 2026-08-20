@@ -1,0 +1,1001 @@
+csvbase_row_id,fage,mage,mature,weeks,premie,visits,gained,weight,lowbirthweight,sex,habit,marital,whitemom
+1,34.000000,34,younger mom,37,full term,14.000000,28.000000,6.960000,not low,male,nonsmoker,married,white
+2,36.000000,31,younger mom,41,full term,12.000000,41.000000,8.860000,not low,female,nonsmoker,married,white
+3,37.000000,36,mature mom,37,full term,10.000000,28.000000,7.510000,not low,female,nonsmoker,married,not white
+4,,16,younger mom,38,full term,,29.000000,6.190000,not low,male,nonsmoker,not married,white
+5,32.000000,31,younger mom,36,premie,12.000000,48.000000,6.750000,not low,female,nonsmoker,married,white
+6,32.000000,26,younger mom,39,full term,14.000000,45.000000,6.690000,not low,female,nonsmoker,married,white
+7,37.000000,36,mature mom,36,premie,10.000000,20.000000,6.130000,not low,female,nonsmoker,married,white
+8,29.000000,24,younger mom,40,full term,13.000000,65.000000,6.740000,not low,male,nonsmoker,not married,white
+9,30.000000,32,younger mom,39,full term,15.000000,25.000000,8.940000,not low,female,nonsmoker,married,white
+10,29.000000,26,younger mom,39,full term,11.000000,22.000000,9.120000,not low,male,nonsmoker,not married,not white
+11,30.000000,34,younger mom,42,full term,14.000000,40.000000,8.910000,not low,male,nonsmoker,married,white
+12,34.000000,27,younger mom,40,full term,16.000000,30.000000,8.000000,not low,male,nonsmoker,married,white
+13,28.000000,22,younger mom,40,full term,20.000000,31.000000,7.250000,not low,female,nonsmoker,not married,white
+14,28.000000,31,younger mom,39,full term,15.000000,,8.200000,not low,male,nonsmoker,not married,white
+15,32.000000,25,younger mom,34,premie,20.000000,25.000000,6.810000,not low,male,nonsmoker,not married,not white
+16,24.000000,20,younger mom,37,full term,10.000000,70.000000,5.560000,not low,male,nonsmoker,not married,white
+17,29.000000,32,younger mom,38,full term,12.000000,22.000000,6.750000,not low,female,nonsmoker,married,white
+18,35.000000,33,younger mom,41,full term,15.000000,38.000000,4.750000,low,male,nonsmoker,married,not white
+19,25.000000,26,younger mom,44,full term,16.000000,20.000000,5.990000,not low,male,smoker,not married,white
+20,22.000000,23,younger mom,40,full term,18.000000,31.000000,8.000000,not low,male,nonsmoker,not married,white
+21,32.000000,29,younger mom,40,full term,15.000000,,8.540000,not low,female,nonsmoker,married,white
+22,21.000000,20,younger mom,40,full term,11.000000,0.000000,7.690000,not low,male,nonsmoker,not married,white
+23,36.000000,34,younger mom,40,full term,16.000000,35.000000,6.560000,not low,female,nonsmoker,married,not white
+24,35.000000,35,mature mom,38,full term,16.000000,18.000000,6.080000,not low,female,nonsmoker,not married,not white
+25,22.000000,24,younger mom,40,full term,12.000000,28.000000,8.540000,not low,male,nonsmoker,married,white
+26,29.000000,23,younger mom,41,full term,,20.000000,8.310000,not low,female,smoker,not married,white
+27,38.000000,31,younger mom,39,full term,13.000000,0.000000,6.980000,not low,female,nonsmoker,married,white
+28,40.000000,42,mature mom,44,full term,9.000000,44.000000,7.870000,not low,male,nonsmoker,married,not white
+29,26.000000,27,younger mom,39,full term,13.000000,69.000000,9.720000,not low,male,nonsmoker,married,white
+30,20.000000,32,younger mom,39,full term,13.000000,10.000000,7.030000,not low,male,nonsmoker,not married,white
+31,32.000000,28,younger mom,44,full term,8.000000,42.000000,7.130000,not low,female,nonsmoker,married,white
+32,31.000000,35,mature mom,40,full term,13.000000,24.000000,6.970000,not low,female,nonsmoker,married,white
+33,38.000000,23,younger mom,39,full term,8.000000,44.000000,7.580000,not low,male,nonsmoker,married,white
+34,34.000000,19,younger mom,40,full term,9.000000,28.000000,8.200000,not low,male,nonsmoker,married,white
+35,30.000000,31,younger mom,35,premie,6.000000,31.000000,6.000000,not low,male,nonsmoker,married,not white
+36,38.000000,47,mature mom,33,premie,10.000000,28.000000,4.310000,low,male,nonsmoker,not married,not white
+37,27.000000,28,younger mom,38,full term,11.000000,20.000000,7.310000,not low,male,nonsmoker,married,white
+38,,32,younger mom,40,full term,2.000000,35.000000,6.960000,not low,male,nonsmoker,not married,not white
+39,39.000000,36,mature mom,42,full term,6.000000,4.000000,7.750000,not low,female,nonsmoker,married,not white
+40,31.000000,30,younger mom,35,premie,15.000000,22.000000,7.170000,not low,male,nonsmoker,married,not white
+41,28.000000,24,younger mom,37,full term,11.000000,20.000000,7.060000,not low,female,smoker,not married,white
+42,32.000000,36,mature mom,39,full term,,36.000000,6.940000,not low,female,smoker,married,white
+43,25.000000,29,younger mom,37,full term,7.000000,9.000000,8.190000,not low,male,nonsmoker,married,white
+44,21.000000,19,younger mom,40,full term,13.000000,24.000000,7.630000,not low,female,nonsmoker,not married,not white
+45,30.000000,30,younger mom,37,full term,12.000000,23.000000,6.500000,not low,male,nonsmoker,married,white
+46,28.000000,30,younger mom,39,full term,10.000000,16.000000,6.810000,not low,female,nonsmoker,married,white
+47,26.000000,34,younger mom,39,full term,14.000000,25.000000,8.000000,not low,female,nonsmoker,married,white
+48,42.000000,43,mature mom,34,premie,15.000000,35.000000,4.190000,low,male,nonsmoker,married,white
+49,35.000000,28,younger mom,39,full term,13.000000,17.000000,6.320000,not low,female,nonsmoker,married,white
+50,30.000000,30,younger mom,36,premie,12.000000,10.000000,4.750000,low,male,smoker,not married,white
+51,,33,younger mom,40,full term,17.000000,12.000000,6.930000,not low,male,nonsmoker,not married,not white
+52,32.000000,31,younger mom,40,full term,19.000000,19.000000,5.940000,not low,female,nonsmoker,married,not white
+53,38.000000,28,younger mom,39,full term,12.000000,51.000000,7.580000,not low,female,nonsmoker,married,white
+54,33.000000,31,younger mom,36,premie,10.000000,19.000000,5.880000,not low,male,nonsmoker,married,white
+55,32.000000,27,younger mom,41,full term,15.000000,35.000000,8.150000,not low,female,nonsmoker,not married,white
+56,28.000000,26,younger mom,41,full term,11.000000,20.000000,7.610000,not low,female,nonsmoker,married,white
+57,27.000000,25,younger mom,34,premie,7.000000,20.000000,4.320000,low,female,smoker,married,white
+58,32.000000,26,younger mom,40,full term,,23.000000,7.720000,not low,female,smoker,not married,white
+59,25.000000,29,younger mom,39,full term,9.000000,50.000000,7.980000,not low,male,nonsmoker,not married,not white
+60,31.000000,27,younger mom,41,full term,15.000000,26.000000,7.130000,not low,male,nonsmoker,married,white
+61,21.000000,20,younger mom,39,full term,29.000000,17.000000,6.430000,not low,male,nonsmoker,not married,white
+62,,22,younger mom,37,full term,0.000000,7.000000,5.440000,low,male,nonsmoker,not married,white
+63,47.000000,38,mature mom,42,full term,13.000000,28.000000,8.750000,not low,female,nonsmoker,not married,not white
+64,,25,younger mom,40,full term,10.000000,34.000000,7.970000,not low,female,smoker,not married,white
+65,37.000000,39,mature mom,39,full term,3.000000,27.000000,6.790000,not low,female,,married,white
+66,20.000000,24,younger mom,28,premie,,,2.160000,low,male,nonsmoker,not married,white
+67,33.000000,26,younger mom,40,full term,7.000000,32.000000,7.130000,not low,male,nonsmoker,not married,not white
+68,41.000000,32,younger mom,34,premie,0.000000,0.000000,7.420000,not low,female,nonsmoker,not married,white
+69,37.000000,35,mature mom,39,full term,9.000000,41.000000,7.890000,not low,male,nonsmoker,married,white
+70,43.000000,38,mature mom,38,full term,11.000000,41.000000,8.390000,not low,female,nonsmoker,married,not white
+71,38.000000,34,younger mom,29,premie,9.000000,20.000000,1.810000,low,male,nonsmoker,married,not white
+72,,32,younger mom,39,full term,6.000000,21.000000,5.500000,not low,female,nonsmoker,not married,white
+73,36.000000,32,younger mom,33,premie,6.000000,40.000000,5.560000,not low,female,nonsmoker,not married,white
+74,,22,younger mom,38,full term,11.000000,37.000000,7.940000,not low,female,nonsmoker,married,white
+75,31.000000,29,younger mom,40,full term,15.000000,40.000000,7.190000,not low,female,nonsmoker,married,white
+76,31.000000,33,younger mom,38,full term,10.000000,40.000000,8.000000,not low,female,nonsmoker,married,white
+77,25.000000,28,younger mom,37,full term,14.000000,19.000000,6.560000,not low,female,nonsmoker,married,white
+78,43.000000,28,younger mom,39,full term,5.000000,32.000000,9.060000,not low,male,nonsmoker,married,white
+79,21.000000,22,younger mom,38,full term,7.000000,27.000000,7.010000,not low,male,nonsmoker,not married,white
+80,,21,younger mom,40,full term,13.000000,29.000000,8.380000,not low,female,nonsmoker,not married,white
+81,,16,younger mom,40,full term,9.000000,55.000000,8.080000,not low,female,nonsmoker,not married,white
+82,38.000000,36,mature mom,36,premie,18.000000,35.000000,5.440000,low,male,nonsmoker,married,white
+83,31.000000,29,younger mom,38,full term,13.000000,23.000000,7.650000,not low,male,nonsmoker,married,white
+84,,27,younger mom,39,full term,10.000000,58.000000,7.940000,not low,female,nonsmoker,not married,not white
+85,34.000000,34,younger mom,36,premie,10.000000,14.000000,4.310000,low,female,nonsmoker,married,white
+86,25.000000,27,younger mom,37,full term,17.000000,,7.690000,not low,female,nonsmoker,not married,white
+87,25.000000,25,younger mom,36,premie,18.000000,44.000000,7.450000,not low,male,smoker,not married,not white
+88,35.000000,36,mature mom,39,full term,,71.000000,8.070000,not low,female,smoker,married,white
+89,26.000000,27,younger mom,38,full term,12.000000,23.000000,6.060000,not low,male,nonsmoker,married,white
+90,36.000000,40,mature mom,39,full term,,40.000000,8.000000,not low,male,smoker,married,white
+91,19.000000,18,younger mom,38,full term,,40.000000,7.940000,not low,male,smoker,not married,white
+92,25.000000,23,younger mom,38,full term,14.000000,36.000000,6.690000,not low,male,nonsmoker,not married,white
+93,24.000000,20,younger mom,37,full term,2.000000,19.000000,5.110000,low,female,nonsmoker,married,white
+94,33.000000,31,younger mom,38,full term,8.000000,52.000000,8.070000,not low,male,nonsmoker,not married,white
+95,37.000000,38,mature mom,36,premie,10.000000,32.000000,6.040000,not low,female,nonsmoker,married,not white
+96,21.000000,20,younger mom,38,full term,7.000000,20.000000,7.370000,not low,male,nonsmoker,not married,white
+97,21.000000,28,younger mom,40,full term,5.000000,7.000000,6.970000,not low,female,nonsmoker,not married,white
+98,32.000000,33,younger mom,41,full term,12.000000,16.000000,7.500000,not low,female,nonsmoker,not married,white
+99,27.000000,27,younger mom,39,full term,10.000000,17.000000,6.360000,not low,male,nonsmoker,not married,not white
+100,39.000000,37,mature mom,41,full term,25.000000,26.000000,8.250000,not low,male,nonsmoker,married,white
+101,29.000000,27,younger mom,41,full term,10.000000,17.000000,8.730000,not low,male,nonsmoker,not married,white
+102,,37,mature mom,39,full term,0.000000,,7.630000,not low,female,nonsmoker,not married,white
+103,26.000000,31,younger mom,40,full term,,15.000000,7.440000,not low,male,smoker,not married,white
+104,25.000000,31,younger mom,32,premie,12.000000,41.000000,6.380000,not low,male,nonsmoker,married,white
+105,31.000000,37,mature mom,40,full term,13.000000,46.000000,8.310000,not low,male,nonsmoker,married,white
+106,38.000000,30,younger mom,38,full term,3.000000,53.000000,7.770000,not low,female,nonsmoker,married,white
+107,,20,younger mom,38,full term,14.000000,45.000000,6.490000,not low,female,nonsmoker,not married,white
+108,26.000000,29,younger mom,36,premie,8.000000,31.000000,6.690000,not low,male,nonsmoker,married,white
+109,25.000000,30,younger mom,38,full term,7.000000,31.000000,5.810000,not low,male,nonsmoker,married,white
+110,28.000000,28,younger mom,40,full term,12.000000,38.000000,6.440000,not low,female,nonsmoker,not married,white
+111,27.000000,26,younger mom,40,full term,9.000000,54.000000,9.680000,not low,female,nonsmoker,married,white
+112,29.000000,27,younger mom,40,full term,11.000000,22.000000,5.940000,not low,female,nonsmoker,married,white
+113,32.000000,30,younger mom,39,full term,11.000000,26.000000,7.370000,not low,male,nonsmoker,not married,white
+114,43.000000,27,younger mom,39,full term,14.000000,45.000000,8.690000,not low,female,nonsmoker,married,white
+115,,26,younger mom,39,full term,8.000000,35.000000,8.120000,not low,female,nonsmoker,not married,white
+116,29.000000,25,younger mom,40,full term,11.000000,21.000000,5.890000,not low,female,smoker,married,white
+117,30.000000,30,younger mom,45,full term,9.000000,13.000000,7.630000,not low,female,nonsmoker,married,white
+118,24.000000,26,younger mom,37,full term,12.000000,25.000000,8.310000,not low,female,nonsmoker,not married,white
+119,,18,younger mom,39,full term,10.000000,30.000000,6.070000,not low,female,nonsmoker,not married,white
+120,,21,younger mom,39,full term,13.000000,35.000000,6.810000,not low,female,nonsmoker,not married,not white
+121,,27,younger mom,39,full term,13.000000,34.000000,7.810000,not low,male,nonsmoker,not married,not white
+122,15.000000,19,younger mom,39,full term,13.000000,25.000000,6.940000,not low,female,nonsmoker,not married,not white
+123,38.000000,33,younger mom,39,full term,11.000000,12.000000,8.250000,not low,female,nonsmoker,not married,not white
+124,28.000000,29,younger mom,40,full term,17.000000,76.000000,8.880000,not low,female,nonsmoker,married,white
+125,36.000000,43,mature mom,39,full term,10.000000,36.000000,7.540000,not low,male,nonsmoker,married,white
+126,37.000000,39,mature mom,41,full term,7.000000,28.000000,6.560000,not low,female,nonsmoker,married,white
+127,,21,younger mom,39,full term,9.000000,35.000000,7.630000,not low,male,nonsmoker,not married,white
+128,27.000000,26,younger mom,41,full term,10.000000,38.000000,8.870000,not low,male,nonsmoker,married,white
+129,,26,younger mom,39,full term,8.000000,7.000000,7.750000,not low,male,smoker,not married,not white
+130,25.000000,27,younger mom,39,full term,13.000000,19.000000,5.900000,not low,female,nonsmoker,married,not white
+131,46.000000,38,mature mom,40,full term,11.000000,12.000000,8.880000,not low,male,nonsmoker,married,white
+132,27.000000,28,younger mom,39,full term,14.000000,30.000000,5.970000,not low,male,nonsmoker,married,white
+133,43.000000,39,mature mom,40,full term,11.000000,37.000000,8.750000,not low,female,nonsmoker,married,white
+134,41.000000,24,younger mom,40,full term,15.000000,38.000000,7.260000,not low,male,nonsmoker,married,not white
+135,39.000000,36,mature mom,39,full term,12.000000,74.000000,8.560000,not low,female,nonsmoker,married,white
+136,34.000000,31,younger mom,40,full term,16.000000,45.000000,5.580000,not low,female,nonsmoker,not married,white
+137,36.000000,26,younger mom,38,full term,,25.000000,7.690000,not low,female,nonsmoker,not married,white
+138,31.000000,31,younger mom,37,full term,12.000000,36.000000,6.270000,not low,female,nonsmoker,married,white
+139,27.000000,23,younger mom,37,full term,15.000000,34.000000,5.910000,not low,female,nonsmoker,married,white
+140,,21,younger mom,38,full term,8.000000,10.000000,5.640000,not low,male,nonsmoker,not married,not white
+141,43.000000,38,mature mom,38,full term,14.000000,25.000000,7.390000,not low,female,nonsmoker,married,not white
+142,20.000000,24,younger mom,39,full term,11.000000,67.000000,7.860000,not low,female,nonsmoker,not married,white
+143,34.000000,29,younger mom,38,full term,21.000000,18.000000,4.550000,low,male,,married,white
+144,29.000000,23,younger mom,39,full term,7.000000,20.000000,5.070000,low,female,nonsmoker,married,white
+145,25.000000,30,younger mom,37,full term,18.000000,40.000000,7.000000,not low,female,nonsmoker,not married,white
+146,30.000000,32,younger mom,40,full term,16.000000,50.000000,9.240000,not low,male,nonsmoker,married,white
+147,25.000000,24,younger mom,37,full term,12.000000,26.000000,6.500000,not low,female,nonsmoker,not married,white
+148,31.000000,31,younger mom,39,full term,11.000000,29.000000,7.220000,not low,female,nonsmoker,married,white
+149,43.000000,36,mature mom,40,full term,9.000000,16.000000,6.920000,not low,female,nonsmoker,married,white
+150,32.000000,34,younger mom,43,full term,14.000000,20.000000,7.800000,not low,male,nonsmoker,married,white
+151,34.000000,31,younger mom,38,full term,12.000000,20.000000,5.130000,low,female,nonsmoker,married,not white
+152,21.000000,26,younger mom,43,full term,11.000000,14.000000,6.650000,not low,male,smoker,not married,white
+153,29.000000,22,younger mom,37,full term,12.000000,26.000000,5.500000,low,female,smoker,not married,white
+154,38.000000,42,mature mom,39,full term,18.000000,9.000000,7.780000,not low,male,nonsmoker,married,not white
+155,31.000000,31,younger mom,40,full term,,29.000000,3.930000,low,female,smoker,married,white
+156,,32,younger mom,32,premie,9.000000,85.000000,8.150000,not low,female,nonsmoker,not married,white
+157,21.000000,24,younger mom,39,full term,9.000000,62.000000,6.940000,not low,female,nonsmoker,not married,not white
+158,28.000000,29,younger mom,37,full term,10.000000,44.000000,6.950000,not low,female,nonsmoker,married,white
+159,32.000000,32,younger mom,38,full term,11.000000,30.000000,6.870000,not low,male,nonsmoker,not married,white
+160,22.000000,23,younger mom,41,full term,,47.000000,8.870000,not low,male,nonsmoker,not married,white
+161,18.000000,18,younger mom,39,full term,16.000000,32.000000,8.840000,not low,female,nonsmoker,not married,white
+162,31.000000,29,younger mom,40,full term,9.000000,,6.810000,not low,male,nonsmoker,not married,white
+163,26.000000,26,younger mom,40,full term,11.000000,4.000000,7.610000,not low,female,nonsmoker,married,white
+164,20.000000,26,younger mom,39,full term,15.000000,26.000000,8.060000,not low,female,nonsmoker,married,not white
+165,34.000000,30,younger mom,39,full term,13.000000,29.000000,7.210000,not low,female,nonsmoker,married,white
+166,32.000000,25,younger mom,40,full term,13.000000,20.000000,7.210000,not low,female,nonsmoker,not married,not white
+167,29.000000,23,younger mom,37,full term,11.000000,36.000000,6.500000,not low,male,nonsmoker,not married,white
+168,34.000000,30,younger mom,36,premie,28.000000,25.000000,5.620000,not low,male,nonsmoker,married,white
+169,29.000000,23,younger mom,40,full term,12.000000,59.000000,8.540000,not low,male,nonsmoker,not married,white
+170,32.000000,28,younger mom,36,premie,15.000000,28.000000,6.000000,not low,female,nonsmoker,married,not white
+171,22.000000,24,younger mom,35,premie,8.000000,16.000000,9.250000,not low,female,smoker,not married,white
+172,20.000000,19,younger mom,39,full term,12.000000,59.000000,5.930000,not low,female,smoker,not married,white
+173,32.000000,36,mature mom,35,premie,9.000000,20.000000,7.690000,not low,female,nonsmoker,married,white
+174,23.000000,19,younger mom,40,full term,13.000000,,9.310000,not low,male,,married,white
+175,47.000000,36,mature mom,39,full term,15.000000,20.000000,8.440000,not low,male,nonsmoker,married,white
+176,26.000000,20,younger mom,39,full term,14.000000,15.000000,6.190000,not low,female,nonsmoker,married,white
+177,24.000000,19,younger mom,34,premie,9.000000,34.000000,4.440000,low,female,nonsmoker,married,white
+178,24.000000,25,younger mom,36,premie,8.000000,0.000000,5.500000,not low,male,nonsmoker,not married,white
+179,33.000000,27,younger mom,38,full term,11.000000,31.000000,7.440000,not low,male,nonsmoker,married,white
+180,35.000000,37,mature mom,43,full term,11.000000,25.000000,7.190000,not low,female,nonsmoker,married,white
+181,34.000000,25,younger mom,41,full term,13.000000,35.000000,7.000000,not low,female,nonsmoker,married,not white
+182,39.000000,34,younger mom,41,full term,13.000000,42.000000,9.190000,not low,female,nonsmoker,married,white
+183,,25,younger mom,38,full term,13.000000,,5.890000,not low,male,nonsmoker,not married,not white
+184,30.000000,27,younger mom,41,full term,12.000000,42.000000,8.540000,not low,male,nonsmoker,married,white
+185,42.000000,34,younger mom,39,full term,,22.000000,7.530000,not low,female,smoker,married,white
+186,26.000000,31,younger mom,38,full term,11.000000,28.000000,6.640000,not low,female,nonsmoker,married,not white
+187,27.000000,23,younger mom,33,premie,5.000000,26.000000,8.750000,not low,male,nonsmoker,married,white
+188,25.000000,26,younger mom,39,full term,13.000000,55.000000,6.810000,not low,male,nonsmoker,not married,white
+189,27.000000,27,younger mom,37,full term,12.000000,29.000000,9.700000,not low,male,nonsmoker,married,white
+190,,34,younger mom,29,premie,6.000000,49.000000,3.090000,low,female,nonsmoker,not married,white
+191,43.000000,34,younger mom,40,full term,15.000000,30.000000,7.870000,not low,female,nonsmoker,not married,not white
+192,21.000000,19,younger mom,38,full term,15.000000,42.000000,8.690000,not low,male,nonsmoker,not married,white
+193,33.000000,33,younger mom,31,premie,12.000000,36.000000,7.830000,not low,male,nonsmoker,married,white
+194,23.000000,24,younger mom,32,premie,13.000000,26.000000,6.780000,not low,male,nonsmoker,married,not white
+195,42.000000,40,mature mom,38,full term,10.000000,18.000000,7.500000,not low,female,nonsmoker,married,white
+196,48.000000,35,mature mom,36,premie,5.000000,16.000000,7.630000,not low,male,nonsmoker,not married,not white
+197,29.000000,24,younger mom,39,full term,2.000000,33.000000,6.430000,not low,female,nonsmoker,not married,white
+198,25.000000,21,younger mom,38,full term,12.000000,20.000000,5.640000,not low,male,nonsmoker,not married,white
+199,30.000000,34,younger mom,41,full term,8.000000,5.000000,7.750000,not low,female,nonsmoker,married,not white
+200,27.000000,26,younger mom,40,full term,13.000000,24.000000,6.120000,not low,female,nonsmoker,married,white
+201,31.000000,34,younger mom,40,full term,17.000000,98.000000,7.230000,not low,male,nonsmoker,married,white
+202,16.000000,25,younger mom,40,full term,12.000000,71.000000,9.060000,not low,male,nonsmoker,not married,white
+203,31.000000,33,younger mom,38,full term,18.000000,11.000000,7.240000,not low,male,nonsmoker,married,white
+204,28.000000,32,younger mom,43,full term,,20.000000,8.950000,not low,male,nonsmoker,not married,white
+205,22.000000,25,younger mom,39,full term,14.000000,12.000000,7.840000,not low,female,nonsmoker,not married,white
+206,,25,younger mom,41,full term,15.000000,25.000000,8.690000,not low,female,smoker,not married,white
+207,27.000000,22,younger mom,39,full term,12.000000,36.000000,7.810000,not low,male,nonsmoker,married,white
+208,39.000000,36,mature mom,38,full term,12.000000,20.000000,6.560000,not low,female,nonsmoker,married,white
+209,37.000000,37,mature mom,39,full term,14.000000,25.000000,7.940000,not low,male,nonsmoker,married,white
+210,31.000000,31,younger mom,38,full term,12.000000,3.000000,6.380000,not low,female,nonsmoker,married,white
+211,21.000000,21,younger mom,39,full term,12.000000,19.000000,6.440000,not low,female,nonsmoker,not married,not white
+212,38.000000,33,younger mom,39,full term,10.000000,33.000000,6.860000,not low,female,nonsmoker,married,white
+213,,35,mature mom,37,full term,11.000000,44.000000,6.190000,not low,female,nonsmoker,not married,not white
+214,33.000000,23,younger mom,34,premie,11.000000,34.000000,4.850000,low,female,nonsmoker,married,white
+215,24.000000,22,younger mom,40,full term,12.000000,10.000000,5.060000,low,female,nonsmoker,not married,white
+216,33.000000,37,mature mom,38,full term,19.000000,26.000000,7.500000,not low,female,nonsmoker,married,not white
+217,38.000000,39,mature mom,40,full term,0.000000,45.000000,8.300000,not low,female,nonsmoker,married,white
+218,,24,younger mom,40,full term,12.000000,73.000000,8.760000,not low,male,smoker,not married,white
+219,41.000000,36,mature mom,38,full term,9.000000,33.000000,7.170000,not low,male,nonsmoker,married,not white
+220,21.000000,23,younger mom,37,full term,12.000000,44.000000,6.690000,not low,male,nonsmoker,not married,white
+221,24.000000,22,younger mom,39,full term,13.000000,8.000000,7.190000,not low,female,nonsmoker,not married,white
+222,26.000000,24,younger mom,41,full term,0.000000,28.000000,6.500000,not low,male,smoker,not married,white
+223,,30,younger mom,38,full term,10.000000,22.000000,7.370000,not low,female,nonsmoker,not married,white
+224,24.000000,21,younger mom,41,full term,14.000000,35.000000,7.370000,not low,male,nonsmoker,not married,white
+225,,24,younger mom,38,full term,4.000000,10.000000,8.090000,not low,male,nonsmoker,not married,not white
+226,,18,younger mom,40,full term,5.000000,45.000000,7.520000,not low,female,nonsmoker,not married,white
+227,30.000000,29,younger mom,41,full term,14.000000,34.000000,7.950000,not low,male,nonsmoker,married,white
+228,30.000000,32,younger mom,38,full term,9.000000,22.000000,7.310000,not low,male,nonsmoker,married,white
+229,,17,younger mom,40,full term,12.000000,28.000000,6.250000,not low,male,nonsmoker,not married,white
+230,29.000000,29,younger mom,41,full term,16.000000,44.000000,7.090000,not low,male,nonsmoker,married,not white
+231,37.000000,25,younger mom,40,full term,10.000000,15.000000,7.900000,not low,female,nonsmoker,not married,white
+232,28.000000,26,younger mom,39,full term,10.000000,35.000000,6.530000,not low,male,nonsmoker,not married,white
+233,53.000000,31,younger mom,35,premie,11.000000,30.000000,5.940000,not low,female,nonsmoker,married,white
+234,31.000000,34,younger mom,37,full term,12.000000,1.000000,6.570000,not low,male,nonsmoker,married,white
+235,21.000000,22,younger mom,38,full term,15.000000,17.000000,7.650000,not low,male,nonsmoker,not married,white
+236,33.000000,29,younger mom,39,full term,11.000000,35.000000,8.230000,not low,female,nonsmoker,married,white
+237,38.000000,36,mature mom,40,full term,17.000000,29.000000,6.870000,not low,female,nonsmoker,married,white
+238,22.000000,23,younger mom,39,full term,12.000000,32.000000,7.100000,not low,male,nonsmoker,married,not white
+239,30.000000,30,younger mom,41,full term,20.000000,34.000000,7.350000,not low,male,nonsmoker,married,white
+240,32.000000,28,younger mom,38,full term,8.000000,15.000000,7.010000,not low,female,nonsmoker,not married,not white
+241,38.000000,27,younger mom,39,full term,17.000000,,8.880000,not low,male,nonsmoker,married,not white
+242,35.000000,35,mature mom,37,full term,10.000000,28.000000,6.250000,not low,female,nonsmoker,not married,white
+243,,23,younger mom,39,full term,12.000000,,7.560000,not low,male,nonsmoker,not married,not white
+244,25.000000,25,younger mom,36,premie,9.000000,27.000000,6.500000,not low,male,nonsmoker,not married,not white
+245,,23,younger mom,39,full term,11.000000,23.000000,8.120000,not low,male,nonsmoker,not married,white
+246,30.000000,31,younger mom,38,full term,8.000000,21.000000,10.620000,not low,male,,married,white
+247,36.000000,34,younger mom,40,full term,10.000000,29.000000,6.720000,not low,male,nonsmoker,married,white
+248,38.000000,38,mature mom,40,full term,15.000000,27.000000,7.980000,not low,female,nonsmoker,married,white
+249,,26,younger mom,39,full term,16.000000,33.000000,9.190000,not low,male,nonsmoker,married,white
+250,37.000000,34,younger mom,39,full term,15.000000,29.000000,7.440000,not low,male,nonsmoker,married,white
+251,44.000000,37,mature mom,34,premie,16.000000,37.000000,4.560000,low,male,nonsmoker,married,white
+252,35.000000,34,younger mom,39,full term,8.000000,57.000000,8.140000,not low,male,nonsmoker,married,white
+253,32.000000,32,younger mom,39,full term,10.000000,25.000000,6.550000,not low,male,,married,not white
+254,18.000000,20,younger mom,38,full term,,26.000000,6.860000,not low,male,smoker,not married,not white
+255,35.000000,32,younger mom,42,full term,12.000000,32.000000,8.310000,not low,female,nonsmoker,married,white
+256,28.000000,23,younger mom,41,full term,7.000000,17.000000,9.450000,not low,male,nonsmoker,not married,white
+257,28.000000,29,younger mom,39,full term,11.000000,22.000000,9.390000,not low,male,nonsmoker,married,white
+258,41.000000,37,mature mom,42,full term,13.000000,20.000000,8.690000,not low,female,nonsmoker,married,white
+259,37.000000,32,younger mom,40,full term,12.000000,41.000000,8.130000,not low,male,nonsmoker,married,white
+260,31.000000,30,younger mom,40,full term,12.000000,40.000000,6.890000,not low,female,nonsmoker,married,not white
+261,38.000000,31,younger mom,43,full term,7.000000,1.000000,7.660000,not low,female,nonsmoker,married,not white
+262,37.000000,38,mature mom,40,full term,12.000000,20.000000,6.100000,not low,female,nonsmoker,married,not white
+263,33.000000,33,younger mom,35,premie,8.000000,19.000000,5.510000,not low,female,nonsmoker,married,white
+264,20.000000,22,younger mom,39,full term,8.000000,45.000000,8.500000,not low,male,nonsmoker,married,white
+265,27.000000,30,younger mom,38,full term,6.000000,18.000000,7.870000,not low,female,nonsmoker,not married,white
+266,25.000000,27,younger mom,39,full term,13.000000,30.000000,8.940000,not low,male,nonsmoker,not married,white
+267,38.000000,36,mature mom,37,full term,11.000000,22.000000,6.920000,not low,female,nonsmoker,married,white
+268,37.000000,34,younger mom,39,full term,12.000000,27.000000,7.500000,not low,male,nonsmoker,married,white
+269,20.000000,22,younger mom,36,premie,8.000000,34.000000,8.250000,not low,female,nonsmoker,married,white
+270,25.000000,24,younger mom,39,full term,14.000000,13.000000,6.980000,not low,female,nonsmoker,not married,white
+271,38.000000,35,mature mom,39,full term,14.000000,0.000000,8.750000,not low,male,nonsmoker,married,not white
+272,40.000000,37,mature mom,39,full term,13.000000,22.000000,7.660000,not low,male,nonsmoker,married,white
+273,22.000000,21,younger mom,41,full term,10.000000,42.000000,7.120000,not low,female,nonsmoker,not married,white
+274,44.000000,39,mature mom,41,full term,17.000000,35.000000,8.190000,not low,male,nonsmoker,not married,white
+275,29.000000,20,younger mom,32,premie,13.000000,30.000000,6.690000,not low,male,smoker,not married,white
+276,31.000000,25,younger mom,35,premie,9.000000,42.000000,3.970000,low,female,nonsmoker,married,white
+277,27.000000,28,younger mom,34,premie,10.000000,55.000000,6.000000,not low,female,nonsmoker,married,not white
+278,31.000000,24,younger mom,40,full term,5.000000,,6.720000,not low,male,nonsmoker,not married,not white
+279,24.000000,25,younger mom,38,full term,13.000000,14.000000,6.310000,not low,female,nonsmoker,not married,white
+280,24.000000,25,younger mom,39,full term,10.000000,17.000000,8.620000,not low,male,nonsmoker,not married,white
+281,,20,younger mom,41,full term,15.000000,40.000000,7.950000,not low,male,nonsmoker,not married,not white
+282,26.000000,26,younger mom,41,full term,10.000000,,8.250000,not low,male,nonsmoker,married,white
+283,,36,mature mom,30,premie,3.000000,18.000000,2.720000,low,female,smoker,not married,white
+284,26.000000,27,younger mom,41,full term,16.000000,40.000000,7.250000,not low,female,nonsmoker,married,white
+285,35.000000,27,younger mom,39,full term,4.000000,5.000000,7.580000,not low,female,nonsmoker,married,not white
+286,30.000000,25,younger mom,38,full term,4.000000,25.000000,7.670000,not low,male,nonsmoker,not married,white
+287,,27,younger mom,37,full term,4.000000,31.000000,6.620000,not low,female,smoker,not married,white
+288,36.000000,29,younger mom,39,full term,9.000000,25.000000,8.120000,not low,male,nonsmoker,married,not white
+289,35.000000,35,mature mom,38,full term,10.000000,40.000000,7.980000,not low,female,nonsmoker,married,white
+290,47.000000,33,younger mom,39,full term,7.000000,11.000000,7.130000,not low,male,nonsmoker,married,not white
+291,23.000000,18,younger mom,38,full term,10.000000,38.000000,7.560000,not low,male,nonsmoker,not married,not white
+292,23.000000,23,younger mom,40,full term,13.000000,30.000000,8.230000,not low,female,nonsmoker,married,white
+293,22.000000,20,younger mom,39,full term,10.000000,10.000000,6.530000,not low,female,nonsmoker,married,white
+294,33.000000,33,younger mom,39,full term,13.000000,31.000000,7.690000,not low,male,nonsmoker,married,white
+295,31.000000,26,younger mom,39,full term,16.000000,46.000000,7.190000,not low,male,nonsmoker,married,white
+296,43.000000,32,younger mom,39,full term,10.000000,29.000000,8.250000,not low,female,nonsmoker,married,white
+297,21.000000,23,younger mom,40,full term,9.000000,28.000000,10.210000,not low,male,nonsmoker,married,white
+298,39.000000,31,younger mom,38,full term,14.000000,44.000000,6.660000,not low,female,nonsmoker,married,white
+299,24.000000,22,younger mom,41,full term,13.000000,11.000000,7.950000,not low,male,nonsmoker,married,white
+300,39.000000,25,younger mom,39,full term,10.000000,42.000000,8.280000,not low,male,nonsmoker,married,white
+301,29.000000,33,younger mom,39,full term,5.000000,19.000000,7.280000,not low,male,nonsmoker,not married,white
+302,33.000000,29,younger mom,41,full term,8.000000,41.000000,6.750000,not low,male,nonsmoker,married,white
+303,33.000000,28,younger mom,41,full term,14.000000,23.000000,7.370000,not low,female,nonsmoker,not married,white
+304,28.000000,26,younger mom,37,full term,12.000000,22.000000,7.000000,not low,male,nonsmoker,married,white
+305,25.000000,27,younger mom,41,full term,16.000000,83.000000,8.790000,not low,male,nonsmoker,married,white
+306,34.000000,31,younger mom,40,full term,13.000000,40.000000,7.900000,not low,male,nonsmoker,married,white
+307,33.000000,25,younger mom,40,full term,8.000000,18.000000,7.250000,not low,female,nonsmoker,not married,not white
+308,25.000000,27,younger mom,41,full term,14.000000,41.000000,8.570000,not low,female,nonsmoker,married,white
+309,31.000000,32,younger mom,39,full term,12.000000,24.000000,7.750000,not low,male,nonsmoker,married,white
+310,32.000000,26,younger mom,41,full term,14.000000,30.000000,8.170000,not low,male,,married,white
+311,44.000000,38,mature mom,39,full term,4.000000,29.000000,7.690000,not low,female,nonsmoker,married,not white
+312,28.000000,31,younger mom,39,full term,4.000000,0.000000,8.000000,not low,male,nonsmoker,married,white
+313,43.000000,38,mature mom,38,full term,9.000000,35.000000,7.190000,not low,male,nonsmoker,married,white
+314,31.000000,31,younger mom,37,full term,12.000000,29.000000,5.970000,not low,female,nonsmoker,married,not white
+315,45.000000,39,mature mom,39,full term,15.000000,36.000000,8.940000,not low,female,nonsmoker,married,white
+316,18.000000,18,younger mom,39,full term,8.000000,39.000000,5.690000,not low,female,nonsmoker,not married,not white
+317,20.000000,23,younger mom,40,full term,12.000000,16.000000,7.610000,not low,female,nonsmoker,not married,white
+318,21.000000,21,younger mom,40,full term,,,6.680000,not low,female,nonsmoker,not married,not white
+319,,20,younger mom,37,full term,9.000000,28.000000,7.330000,not low,male,nonsmoker,not married,white
+320,30.000000,34,younger mom,39,full term,12.000000,41.000000,8.480000,not low,male,nonsmoker,married,white
+321,36.000000,33,younger mom,40,full term,12.000000,53.000000,6.740000,not low,male,nonsmoker,not married,white
+322,34.000000,28,younger mom,39,full term,8.000000,27.000000,7.580000,not low,female,smoker,married,white
+323,25.000000,27,younger mom,38,full term,11.000000,24.000000,9.000000,not low,male,smoker,not married,white
+324,,16,younger mom,39,full term,8.000000,43.000000,6.740000,not low,female,nonsmoker,not married,white
+325,,22,younger mom,35,premie,8.000000,5.000000,4.500000,low,male,nonsmoker,not married,white
+326,33.000000,28,younger mom,37,full term,8.000000,30.000000,6.810000,not low,female,nonsmoker,married,white
+327,44.000000,35,mature mom,41,full term,12.000000,25.000000,8.700000,not low,male,nonsmoker,married,not white
+328,30.000000,33,younger mom,40,full term,12.000000,34.000000,6.750000,not low,male,nonsmoker,not married,not white
+329,27.000000,25,younger mom,25,premie,4.000000,6.000000,2.130000,low,male,nonsmoker,married,not white
+330,35.000000,32,younger mom,41,full term,15.000000,51.000000,7.630000,not low,male,nonsmoker,married,white
+331,29.000000,26,younger mom,39,full term,3.000000,29.000000,8.310000,not low,female,nonsmoker,not married,white
+332,20.000000,20,younger mom,39,full term,10.000000,32.000000,7.040000,not low,female,nonsmoker,not married,white
+333,31.000000,29,younger mom,39,full term,13.000000,50.000000,7.400000,not low,female,nonsmoker,not married,white
+334,49.000000,40,mature mom,39,full term,12.000000,30.000000,6.570000,not low,female,nonsmoker,married,not white
+335,42.000000,31,younger mom,39,full term,5.000000,77.000000,7.910000,not low,male,nonsmoker,married,not white
+336,29.000000,21,younger mom,36,premie,10.000000,28.000000,6.170000,not low,female,nonsmoker,not married,white
+337,25.000000,27,younger mom,35,premie,,6.000000,6.610000,not low,male,smoker,not married,not white
+338,,31,younger mom,39,full term,9.000000,20.000000,6.940000,not low,male,nonsmoker,not married,white
+339,19.000000,16,younger mom,36,premie,8.000000,49.000000,6.380000,not low,male,nonsmoker,married,white
+340,33.000000,29,younger mom,34,premie,,55.000000,8.560000,not low,male,nonsmoker,married,white
+341,39.000000,33,younger mom,40,full term,9.000000,30.000000,8.120000,not low,male,nonsmoker,married,white
+342,27.000000,30,younger mom,46,full term,0.000000,23.000000,6.620000,not low,female,nonsmoker,married,white
+343,30.000000,34,younger mom,39,full term,10.000000,19.000000,6.750000,not low,female,nonsmoker,married,white
+344,41.000000,35,mature mom,38,full term,14.000000,15.000000,5.500000,not low,female,nonsmoker,married,white
+345,33.000000,33,younger mom,35,premie,,32.000000,4.940000,low,female,smoker,married,not white
+346,26.000000,25,younger mom,39,full term,12.000000,12.000000,6.750000,not low,male,nonsmoker,married,white
+347,32.000000,37,mature mom,37,full term,10.000000,13.000000,6.480000,not low,female,nonsmoker,not married,white
+348,,40,mature mom,39,full term,0.000000,10.000000,6.750000,not low,male,smoker,not married,white
+349,33.000000,31,younger mom,37,full term,10.000000,53.000000,5.810000,not low,female,nonsmoker,married,white
+350,33.000000,29,younger mom,41,full term,17.000000,36.000000,8.310000,not low,male,nonsmoker,married,white
+351,38.000000,38,mature mom,40,full term,12.000000,31.000000,8.370000,not low,female,nonsmoker,married,white
+352,43.000000,33,younger mom,40,full term,15.000000,40.000000,6.940000,not low,female,nonsmoker,not married,not white
+353,20.000000,20,younger mom,41,full term,19.000000,30.000000,8.110000,not low,male,nonsmoker,not married,white
+354,34.000000,26,younger mom,39,full term,7.000000,47.000000,7.940000,not low,male,nonsmoker,married,white
+355,38.000000,34,younger mom,42,full term,10.000000,29.000000,6.880000,not low,male,nonsmoker,married,not white
+356,39.000000,30,younger mom,40,full term,13.000000,46.000000,7.810000,not low,female,nonsmoker,married,white
+357,33.000000,19,younger mom,38,full term,12.000000,53.000000,8.000000,not low,female,smoker,not married,white
+358,,18,younger mom,39,full term,12.000000,0.000000,6.250000,not low,female,nonsmoker,not married,white
+359,,33,younger mom,40,full term,10.000000,,8.310000,not low,female,nonsmoker,not married,not white
+360,32.000000,26,younger mom,38,full term,10.000000,35.000000,6.440000,not low,male,nonsmoker,married,not white
+361,26.000000,24,younger mom,39,full term,14.000000,31.000000,8.590000,not low,male,nonsmoker,married,white
+362,33.000000,30,younger mom,41,full term,13.000000,19.000000,6.190000,not low,male,nonsmoker,not married,not white
+363,26.000000,37,mature mom,39,full term,13.000000,38.000000,8.310000,not low,female,nonsmoker,married,white
+364,38.000000,33,younger mom,41,full term,11.000000,18.000000,8.190000,not low,male,nonsmoker,not married,white
+365,39.000000,35,mature mom,41,full term,9.000000,21.000000,7.440000,not low,female,nonsmoker,married,white
+366,,37,mature mom,41,full term,,37.000000,4.570000,low,female,smoker,not married,white
+367,29.000000,26,younger mom,41,full term,13.000000,60.000000,6.820000,not low,female,nonsmoker,married,white
+368,28.000000,23,younger mom,39,full term,17.000000,24.000000,7.250000,not low,male,nonsmoker,not married,white
+369,29.000000,23,younger mom,37,full term,8.000000,15.000000,7.500000,not low,female,nonsmoker,married,white
+370,25.000000,28,younger mom,42,full term,,30.000000,7.370000,not low,male,nonsmoker,married,white
+371,26.000000,27,younger mom,42,full term,12.000000,26.000000,7.130000,not low,female,nonsmoker,married,white
+372,45.000000,34,younger mom,35,premie,9.000000,22.000000,4.250000,low,female,nonsmoker,married,white
+373,,27,younger mom,40,full term,12.000000,35.000000,7.440000,not low,male,nonsmoker,not married,white
+374,34.000000,33,younger mom,40,full term,12.000000,30.000000,7.940000,not low,male,nonsmoker,married,not white
+375,26.000000,27,younger mom,39,full term,0.000000,63.000000,7.460000,not low,female,nonsmoker,married,white
+376,25.000000,27,younger mom,43,full term,12.000000,27.000000,8.240000,not low,male,nonsmoker,married,white
+377,21.000000,19,younger mom,39,full term,10.000000,26.000000,7.130000,not low,male,smoker,not married,white
+378,24.000000,20,younger mom,41,full term,,34.000000,7.870000,not low,male,nonsmoker,not married,white
+379,20.000000,23,younger mom,44,full term,17.000000,7.000000,6.560000,not low,female,nonsmoker,married,white
+380,34.000000,34,younger mom,40,full term,12.000000,23.000000,5.560000,not low,female,nonsmoker,not married,not white
+381,27.000000,27,younger mom,42,full term,1.000000,98.000000,7.750000,not low,female,nonsmoker,married,not white
+382,34.000000,26,younger mom,42,full term,9.000000,28.000000,7.190000,not low,female,nonsmoker,married,not white
+383,41.000000,40,mature mom,40,full term,10.000000,25.000000,7.230000,not low,female,nonsmoker,married,not white
+384,42.000000,33,younger mom,37,full term,7.000000,12.000000,5.750000,not low,male,nonsmoker,not married,white
+385,34.000000,29,younger mom,40,full term,15.000000,25.000000,7.390000,not low,male,smoker,not married,white
+386,39.000000,41,mature mom,34,premie,11.000000,28.000000,7.560000,not low,female,nonsmoker,married,not white
+387,23.000000,23,younger mom,42,full term,14.000000,38.000000,8.310000,not low,male,nonsmoker,married,white
+388,34.000000,33,younger mom,42,full term,15.000000,40.000000,9.570000,not low,female,nonsmoker,married,white
+389,35.000000,27,younger mom,39,full term,8.000000,25.000000,7.340000,not low,female,nonsmoker,married,white
+390,32.000000,29,younger mom,40,full term,12.000000,21.000000,7.060000,not low,male,nonsmoker,married,white
+391,25.000000,20,younger mom,40,full term,10.000000,44.000000,8.750000,not low,male,nonsmoker,married,white
+392,32.000000,22,younger mom,39,full term,14.000000,34.000000,8.990000,not low,male,nonsmoker,married,white
+393,34.000000,35,mature mom,37,full term,15.000000,27.000000,7.370000,not low,male,nonsmoker,not married,white
+394,21.000000,18,younger mom,40,full term,10.000000,45.000000,7.940000,not low,male,nonsmoker,not married,not white
+395,42.000000,26,younger mom,39,full term,11.000000,35.000000,7.870000,not low,male,nonsmoker,married,white
+396,34.000000,28,younger mom,39,full term,10.000000,18.000000,7.750000,not low,male,nonsmoker,married,white
+397,34.000000,31,younger mom,40,full term,16.000000,25.000000,10.420000,not low,male,nonsmoker,married,white
+398,34.000000,30,younger mom,40,full term,16.000000,9.000000,7.660000,not low,male,nonsmoker,married,white
+399,26.000000,24,younger mom,38,full term,10.000000,35.000000,7.220000,not low,female,nonsmoker,married,white
+400,36.000000,34,younger mom,38,full term,10.000000,28.000000,7.690000,not low,female,nonsmoker,married,white
+401,,20,younger mom,39,full term,9.000000,17.000000,6.560000,not low,female,nonsmoker,not married,white
+402,44.000000,41,mature mom,39,full term,8.000000,38.000000,9.930000,not low,male,nonsmoker,married,white
+403,33.000000,32,younger mom,32,premie,13.000000,47.000000,6.380000,not low,female,nonsmoker,married,white
+404,36.000000,39,mature mom,38,full term,14.000000,35.000000,9.120000,not low,male,nonsmoker,married,white
+405,24.000000,20,younger mom,40,full term,10.000000,49.000000,9.840000,not low,male,nonsmoker,married,white
+406,30.000000,28,younger mom,37,full term,10.000000,,8.190000,not low,male,nonsmoker,married,white
+407,34.000000,26,younger mom,39,full term,10.000000,33.000000,5.050000,low,female,smoker,not married,white
+408,26.000000,27,younger mom,40,full term,15.000000,18.000000,8.440000,not low,male,smoker,not married,white
+409,37.000000,24,younger mom,43,full term,9.000000,4.000000,7.560000,not low,male,nonsmoker,not married,white
+410,39.000000,26,younger mom,36,premie,13.000000,70.000000,4.940000,low,female,smoker,married,white
+411,32.000000,32,younger mom,39,full term,,31.000000,7.190000,not low,male,nonsmoker,not married,not white
+412,27.000000,28,younger mom,39,full term,7.000000,40.000000,7.130000,not low,male,nonsmoker,married,white
+413,26.000000,28,younger mom,39,full term,10.000000,28.000000,7.870000,not low,female,nonsmoker,not married,white
+414,26.000000,26,younger mom,40,full term,14.000000,22.000000,7.130000,not low,female,smoker,married,white
+415,25.000000,27,younger mom,40,full term,16.000000,37.000000,6.860000,not low,male,nonsmoker,married,white
+416,43.000000,38,mature mom,39,full term,7.000000,49.000000,7.210000,not low,female,nonsmoker,married,not white
+417,34.000000,34,younger mom,38,full term,9.000000,28.000000,5.940000,not low,female,nonsmoker,married,white
+418,41.000000,39,mature mom,39,full term,12.000000,26.000000,7.130000,not low,male,nonsmoker,not married,white
+419,25.000000,26,younger mom,34,premie,8.000000,49.000000,5.290000,low,male,nonsmoker,married,white
+420,26.000000,30,younger mom,39,full term,12.000000,4.000000,7.590000,not low,female,nonsmoker,not married,white
+421,31.000000,29,younger mom,39,full term,9.000000,15.000000,7.620000,not low,female,nonsmoker,married,not white
+422,,26,younger mom,37,full term,12.000000,50.000000,5.600000,not low,female,nonsmoker,not married,not white
+423,33.000000,21,younger mom,38,full term,7.000000,36.000000,6.440000,not low,male,nonsmoker,married,white
+424,28.000000,22,younger mom,42,full term,7.000000,37.000000,7.560000,not low,female,smoker,not married,white
+425,37.000000,32,younger mom,40,full term,11.000000,20.000000,9.020000,not low,male,nonsmoker,married,white
+426,43.000000,36,mature mom,37,full term,15.000000,25.000000,5.940000,not low,male,nonsmoker,married,white
+427,25.000000,31,younger mom,34,premie,12.000000,,8.210000,not low,female,nonsmoker,not married,white
+428,32.000000,30,younger mom,39,full term,13.000000,22.000000,6.560000,not low,female,nonsmoker,married,white
+429,29.000000,22,younger mom,39,full term,14.000000,21.000000,7.060000,not low,male,nonsmoker,not married,white
+430,28.000000,24,younger mom,35,premie,12.000000,0.000000,6.990000,not low,female,nonsmoker,married,white
+431,25.000000,26,younger mom,38,full term,12.000000,17.000000,4.870000,low,female,nonsmoker,married,white
+432,27.000000,30,younger mom,37,full term,15.000000,30.000000,6.060000,not low,male,nonsmoker,married,white
+433,26.000000,19,younger mom,41,full term,15.000000,37.000000,7.130000,not low,male,smoker,not married,white
+434,31.000000,33,younger mom,40,full term,15.000000,40.000000,8.620000,not low,female,,married,white
+435,46.000000,38,mature mom,40,full term,12.000000,36.000000,8.770000,not low,male,,married,white
+436,85.000000,29,younger mom,35,premie,8.000000,47.000000,5.950000,not low,female,smoker,not married,white
+437,34.000000,32,younger mom,41,full term,,30.000000,8.220000,not low,female,smoker,married,white
+438,28.000000,21,younger mom,40,full term,12.000000,58.000000,7.570000,not low,female,smoker,not married,not white
+439,25.000000,24,younger mom,39,full term,10.000000,24.000000,7.690000,not low,female,nonsmoker,married,not white
+440,21.000000,19,younger mom,39,full term,13.000000,49.000000,8.500000,not low,male,nonsmoker,not married,white
+441,30.000000,24,younger mom,40,full term,13.000000,17.000000,7.500000,not low,female,nonsmoker,not married,not white
+442,35.000000,32,younger mom,37,full term,10.000000,10.000000,6.810000,not low,female,nonsmoker,married,white
+443,34.000000,31,younger mom,38,full term,18.000000,19.000000,7.410000,not low,male,,married,white
+444,41.000000,38,mature mom,41,full term,20.000000,26.000000,6.250000,not low,male,nonsmoker,married,white
+445,26.000000,24,younger mom,40,full term,7.000000,26.000000,8.310000,not low,male,smoker,married,white
+446,28.000000,24,younger mom,39,full term,9.000000,16.000000,7.070000,not low,female,nonsmoker,married,white
+447,39.000000,36,mature mom,39,full term,14.000000,55.000000,7.810000,not low,male,nonsmoker,married,white
+448,32.000000,36,mature mom,40,full term,30.000000,10.000000,6.590000,not low,female,nonsmoker,not married,white
+449,30.000000,33,younger mom,39,full term,10.000000,16.000000,7.130000,not low,male,nonsmoker,married,white
+450,24.000000,22,younger mom,39,full term,15.000000,18.000000,7.440000,not low,female,,married,white
+451,38.000000,22,younger mom,43,full term,11.000000,30.000000,7.860000,not low,female,nonsmoker,not married,white
+452,26.000000,26,younger mom,40,full term,11.000000,35.000000,6.560000,not low,female,nonsmoker,married,white
+453,36.000000,22,younger mom,35,premie,,5.000000,5.780000,not low,male,smoker,married,not white
+454,22.000000,29,younger mom,41,full term,15.000000,75.000000,9.120000,not low,male,smoker,not married,white
+455,,28,younger mom,38,full term,0.000000,10.000000,5.220000,low,male,smoker,not married,white
+456,38.000000,28,younger mom,39,full term,12.000000,,7.960000,not low,male,nonsmoker,not married,white
+457,34.000000,30,younger mom,39,full term,15.000000,34.000000,7.250000,not low,female,nonsmoker,married,not white
+458,28.000000,21,younger mom,40,full term,3.000000,20.000000,8.600000,not low,male,nonsmoker,married,not white
+459,33.000000,36,mature mom,35,premie,15.000000,0.000000,6.640000,not low,male,nonsmoker,married,white
+460,31.000000,34,younger mom,33,premie,7.000000,16.000000,2.500000,low,female,smoker,married,white
+461,33.000000,32,younger mom,39,full term,13.000000,,7.150000,not low,male,nonsmoker,married,white
+462,41.000000,39,mature mom,35,premie,13.000000,45.000000,4.500000,low,male,nonsmoker,married,white
+463,29.000000,27,younger mom,37,full term,21.000000,34.000000,7.100000,not low,female,nonsmoker,not married,white
+464,28.000000,22,younger mom,26,premie,2.000000,80.000000,1.120000,low,male,smoker,not married,white
+465,29.000000,29,younger mom,40,full term,10.000000,35.000000,7.440000,not low,female,nonsmoker,married,white
+466,41.000000,33,younger mom,41,full term,15.000000,25.000000,6.060000,not low,female,nonsmoker,married,not white
+467,45.000000,32,younger mom,38,full term,7.000000,32.000000,5.220000,low,male,nonsmoker,married,white
+468,,21,younger mom,38,full term,14.000000,17.000000,6.610000,not low,male,smoker,not married,white
+469,,23,younger mom,39,full term,8.000000,29.000000,6.600000,not low,female,nonsmoker,not married,not white
+470,29.000000,24,younger mom,41,full term,14.000000,33.000000,8.500000,not low,male,nonsmoker,married,white
+471,38.000000,38,mature mom,39,full term,12.000000,3.000000,8.560000,not low,male,nonsmoker,married,white
+472,28.000000,22,younger mom,38,full term,14.000000,34.000000,7.250000,not low,male,nonsmoker,not married,not white
+473,20.000000,18,younger mom,40,full term,14.000000,40.000000,7.590000,not low,female,nonsmoker,not married,not white
+474,30.000000,29,younger mom,39,full term,,,9.650000,not low,female,nonsmoker,not married,white
+475,29.000000,28,younger mom,41,full term,11.000000,31.000000,7.810000,not low,female,smoker,not married,white
+476,35.000000,36,mature mom,39,full term,17.000000,19.000000,8.940000,not low,male,nonsmoker,not married,white
+477,29.000000,27,younger mom,27,premie,1.000000,30.000000,1.810000,low,female,smoker,not married,not white
+478,27.000000,20,younger mom,37,full term,10.000000,32.000000,6.050000,not low,female,nonsmoker,not married,not white
+479,31.000000,36,mature mom,39,full term,13.000000,23.000000,5.650000,not low,female,nonsmoker,married,white
+480,29.000000,25,younger mom,42,full term,17.000000,25.000000,7.360000,not low,female,nonsmoker,married,white
+481,29.000000,26,younger mom,38,full term,0.000000,14.000000,7.690000,not low,female,nonsmoker,married,white
+482,20.000000,22,younger mom,43,full term,10.000000,30.000000,5.190000,low,female,nonsmoker,married,not white
+483,27.000000,28,younger mom,39,full term,20.000000,46.000000,7.530000,not low,female,nonsmoker,married,white
+484,21.000000,18,younger mom,37,full term,10.000000,26.000000,6.120000,not low,female,nonsmoker,not married,not white
+485,32.000000,34,younger mom,41,full term,14.000000,30.000000,6.750000,not low,female,nonsmoker,married,white
+486,32.000000,27,younger mom,40,full term,7.000000,3.000000,9.000000,not low,male,nonsmoker,married,white
+487,34.000000,33,younger mom,40,full term,13.000000,25.000000,7.850000,not low,female,nonsmoker,married,white
+488,24.000000,39,mature mom,38,full term,10.000000,26.000000,7.120000,not low,female,nonsmoker,married,white
+489,28.000000,29,younger mom,38,full term,12.000000,22.000000,8.310000,not low,male,nonsmoker,not married,white
+490,37.000000,35,mature mom,37,full term,14.000000,38.000000,5.000000,low,female,nonsmoker,married,not white
+491,,27,younger mom,40,full term,,37.000000,6.950000,not low,female,smoker,married,not white
+492,44.000000,41,mature mom,38,full term,12.000000,7.000000,7.820000,not low,female,nonsmoker,married,white
+493,33.000000,28,younger mom,33,premie,20.000000,29.000000,6.310000,not low,male,nonsmoker,married,white
+494,,20,younger mom,38,full term,0.000000,15.000000,6.810000,not low,male,nonsmoker,not married,white
+495,43.000000,41,mature mom,40,full term,14.000000,33.000000,9.060000,not low,male,nonsmoker,married,not white
+496,22.000000,20,younger mom,37,full term,14.000000,11.000000,5.130000,low,female,nonsmoker,not married,white
+497,26.000000,19,younger mom,35,premie,6.000000,28.000000,6.060000,not low,male,nonsmoker,married,white
+498,,23,younger mom,46,full term,14.000000,43.000000,6.440000,not low,male,nonsmoker,not married,not white
+499,40.000000,28,younger mom,39,full term,11.000000,30.000000,7.690000,not low,female,nonsmoker,married,white
+500,43.000000,41,mature mom,39,full term,13.000000,47.000000,7.340000,not low,female,nonsmoker,married,not white
+501,24.000000,21,younger mom,36,premie,12.000000,45.000000,6.330000,not low,male,nonsmoker,not married,not white
+502,36.000000,30,younger mom,38,full term,10.000000,27.000000,7.500000,not low,female,nonsmoker,married,white
+503,27.000000,28,younger mom,40,full term,13.000000,2.000000,5.690000,not low,female,nonsmoker,married,not white
+504,26.000000,32,younger mom,39,full term,11.000000,32.000000,7.560000,not low,female,nonsmoker,married,white
+505,44.000000,44,mature mom,39,full term,12.000000,35.000000,7.100000,not low,male,,married,not white
+506,22.000000,19,younger mom,42,full term,11.000000,98.000000,6.850000,not low,female,nonsmoker,not married,white
+507,28.000000,23,younger mom,40,full term,7.000000,28.000000,6.250000,not low,female,nonsmoker,married,white
+508,37.000000,39,mature mom,40,full term,12.000000,40.000000,6.500000,not low,female,nonsmoker,married,white
+509,33.000000,30,younger mom,40,full term,15.000000,19.000000,7.370000,not low,female,nonsmoker,married,white
+510,33.000000,26,younger mom,39,full term,12.000000,54.000000,6.680000,not low,female,nonsmoker,married,white
+511,23.000000,20,younger mom,39,full term,12.000000,31.000000,8.380000,not low,female,nonsmoker,not married,white
+512,35.000000,37,mature mom,41,full term,,29.000000,7.720000,not low,female,smoker,married,white
+513,31.000000,26,younger mom,37,full term,10.000000,30.000000,6.560000,not low,male,nonsmoker,married,not white
+514,36.000000,39,mature mom,38,full term,10.000000,35.000000,7.280000,not low,male,nonsmoker,married,white
+515,22.000000,25,younger mom,41,full term,15.000000,47.000000,9.130000,not low,male,nonsmoker,married,white
+516,31.000000,30,younger mom,39,full term,10.000000,60.000000,5.490000,low,male,nonsmoker,married,not white
+517,27.000000,24,younger mom,42,full term,17.000000,43.000000,8.130000,not low,male,nonsmoker,not married,white
+518,33.000000,26,younger mom,39,full term,10.000000,22.000000,6.750000,not low,female,nonsmoker,married,not white
+519,25.000000,32,younger mom,41,full term,13.000000,41.000000,8.310000,not low,female,nonsmoker,not married,white
+520,31.000000,35,mature mom,39,full term,12.000000,37.000000,7.340000,not low,male,nonsmoker,married,white
+521,35.000000,34,younger mom,39,full term,20.000000,,7.700000,not low,female,nonsmoker,married,white
+522,25.000000,25,younger mom,39,full term,11.000000,30.000000,7.250000,not low,male,nonsmoker,not married,white
+523,17.000000,19,younger mom,39,full term,11.000000,30.000000,7.430000,not low,male,nonsmoker,not married,not white
+524,26.000000,26,younger mom,38,full term,,29.000000,6.790000,not low,female,smoker,married,white
+525,,28,younger mom,38,full term,9.000000,30.000000,9.000000,not low,male,nonsmoker,not married,white
+526,28.000000,22,younger mom,38,full term,13.000000,34.000000,6.250000,not low,female,nonsmoker,married,white
+527,33.000000,30,younger mom,41,full term,,35.000000,7.250000,not low,female,smoker,married,white
+528,21.000000,21,younger mom,39,full term,12.000000,23.000000,6.900000,not low,male,nonsmoker,not married,white
+529,,23,younger mom,32,premie,9.000000,4.000000,4.440000,low,male,smoker,not married,white
+530,26.000000,19,younger mom,40,full term,6.000000,8.000000,6.060000,not low,male,nonsmoker,not married,white
+531,37.000000,33,younger mom,39,full term,14.000000,20.000000,6.940000,not low,male,nonsmoker,married,not white
+532,34.000000,27,younger mom,39,full term,12.000000,48.000000,6.970000,not low,female,nonsmoker,married,not white
+533,37.000000,26,younger mom,42,full term,10.000000,22.000000,9.440000,not low,male,nonsmoker,married,white
+534,28.000000,27,younger mom,38,full term,10.000000,28.000000,5.750000,not low,female,nonsmoker,married,white
+535,28.000000,26,younger mom,37,full term,11.000000,52.000000,8.700000,not low,male,nonsmoker,married,white
+536,25.000000,24,younger mom,40,full term,10.000000,82.000000,8.050000,not low,female,nonsmoker,not married,white
+537,20.000000,25,younger mom,41,full term,10.000000,30.000000,7.000000,not low,female,nonsmoker,not married,white
+538,,36,mature mom,36,premie,,15.000000,4.690000,low,male,smoker,not married,not white
+539,31.000000,27,younger mom,40,full term,10.000000,26.000000,6.940000,not low,female,nonsmoker,married,white
+540,40.000000,40,mature mom,38,full term,6.000000,22.000000,6.920000,not low,female,nonsmoker,married,white
+541,32.000000,27,younger mom,39,full term,13.000000,34.000000,7.190000,not low,male,nonsmoker,married,white
+542,39.000000,34,younger mom,39,full term,10.000000,20.000000,8.810000,not low,female,nonsmoker,married,not white
+543,31.000000,30,younger mom,39,full term,11.000000,18.000000,8.490000,not low,male,nonsmoker,married,white
+544,15.000000,18,younger mom,39,full term,4.000000,9.000000,7.370000,not low,female,nonsmoker,not married,white
+545,38.000000,35,mature mom,40,full term,12.000000,32.000000,8.440000,not low,female,nonsmoker,married,white
+546,38.000000,35,mature mom,37,full term,12.000000,29.000000,7.610000,not low,female,nonsmoker,married,not white
+547,,28,younger mom,38,full term,7.000000,29.000000,7.250000,not low,female,nonsmoker,not married,not white
+548,36.000000,30,younger mom,35,premie,13.000000,28.000000,6.050000,not low,female,nonsmoker,married,white
+549,27.000000,29,younger mom,40,full term,11.000000,18.000000,6.250000,not low,female,nonsmoker,married,white
+550,35.000000,42,mature mom,39,full term,,,7.000000,not low,male,nonsmoker,not married,white
+551,35.000000,36,mature mom,41,full term,14.000000,27.000000,8.140000,not low,female,nonsmoker,married,white
+552,37.000000,31,younger mom,40,full term,17.000000,42.000000,8.110000,not low,female,nonsmoker,married,white
+553,,23,younger mom,39,full term,11.000000,26.000000,7.460000,not low,female,nonsmoker,not married,white
+554,44.000000,39,mature mom,40,full term,,40.000000,7.870000,not low,female,nonsmoker,married,white
+555,34.000000,26,younger mom,42,full term,14.000000,74.000000,7.840000,not low,male,smoker,married,white
+556,37.000000,21,younger mom,40,full term,16.000000,29.000000,7.690000,not low,female,smoker,married,white
+557,30.000000,30,younger mom,39,full term,8.000000,31.000000,7.940000,not low,male,nonsmoker,married,white
+558,25.000000,25,younger mom,38,full term,10.000000,10.000000,5.960000,not low,male,smoker,not married,white
+559,17.000000,22,younger mom,29,premie,6.000000,4.000000,6.490000,not low,female,nonsmoker,not married,white
+560,,17,younger mom,39,full term,11.000000,12.000000,6.060000,not low,male,nonsmoker,not married,white
+561,,25,younger mom,39,full term,10.000000,11.000000,6.940000,not low,female,nonsmoker,not married,not white
+562,28.000000,28,younger mom,40,full term,15.000000,38.000000,7.750000,not low,female,nonsmoker,married,not white
+563,37.000000,31,younger mom,38,full term,11.000000,48.000000,8.610000,not low,male,nonsmoker,not married,white
+564,33.000000,27,younger mom,40,full term,14.000000,41.000000,8.690000,not low,male,nonsmoker,married,white
+565,31.000000,33,younger mom,41,full term,14.000000,16.000000,6.460000,not low,female,nonsmoker,married,white
+566,30.000000,28,younger mom,37,full term,3.000000,30.000000,6.210000,not low,female,nonsmoker,not married,not white
+567,27.000000,27,younger mom,36,premie,14.000000,37.000000,9.000000,not low,male,nonsmoker,not married,not white
+568,29.000000,31,younger mom,37,full term,15.000000,37.000000,7.370000,not low,male,smoker,married,white
+569,,27,younger mom,38,full term,7.000000,48.000000,8.110000,not low,female,nonsmoker,not married,not white
+570,,23,younger mom,38,full term,13.000000,44.000000,6.400000,not low,female,nonsmoker,not married,not white
+571,28.000000,23,younger mom,40,full term,16.000000,35.000000,8.560000,not low,female,nonsmoker,not married,white
+572,24.000000,21,younger mom,40,full term,0.000000,,7.800000,not low,female,nonsmoker,not married,white
+573,39.000000,33,younger mom,38,full term,11.000000,25.000000,7.930000,not low,female,nonsmoker,married,white
+574,25.000000,25,younger mom,40,full term,13.000000,62.000000,6.040000,not low,male,nonsmoker,not married,white
+575,29.000000,32,younger mom,38,full term,27.000000,1.000000,8.130000,not low,male,nonsmoker,married,not white
+576,26.000000,23,younger mom,39,full term,6.000000,9.000000,8.620000,not low,male,nonsmoker,married,white
+577,26.000000,26,younger mom,39,full term,12.000000,15.000000,7.440000,not low,female,nonsmoker,married,white
+578,28.000000,34,younger mom,35,premie,5.000000,30.000000,5.610000,not low,male,nonsmoker,not married,not white
+579,30.000000,33,younger mom,41,full term,14.000000,37.000000,6.250000,not low,male,nonsmoker,married,not white
+580,28.000000,22,younger mom,37,full term,13.000000,34.000000,7.130000,not low,female,smoker,married,white
+581,29.000000,29,younger mom,40,full term,12.000000,,7.280000,not low,male,nonsmoker,married,white
+582,30.000000,27,younger mom,40,full term,13.000000,95.000000,8.380000,not low,male,nonsmoker,not married,white
+583,,31,younger mom,40,full term,13.000000,38.000000,7.440000,not low,male,nonsmoker,not married,white
+584,34.000000,31,younger mom,43,full term,11.000000,34.000000,9.810000,not low,male,nonsmoker,married,white
+585,,21,younger mom,39,full term,10.000000,47.000000,7.200000,not low,male,nonsmoker,not married,white
+586,32.000000,28,younger mom,43,full term,,25.000000,9.000000,not low,female,nonsmoker,married,not white
+587,22.000000,20,younger mom,38,full term,18.000000,35.000000,6.500000,not low,male,nonsmoker,not married,white
+588,30.000000,27,younger mom,38,full term,17.000000,0.000000,7.310000,not low,female,nonsmoker,married,white
+589,21.000000,26,younger mom,41,full term,11.000000,51.000000,7.630000,not low,male,nonsmoker,married,white
+590,29.000000,29,younger mom,40,full term,13.000000,34.000000,8.390000,not low,female,nonsmoker,married,not white
+591,42.000000,27,younger mom,38,full term,9.000000,34.000000,6.320000,not low,female,,married,not white
+592,,20,younger mom,39,full term,3.000000,33.000000,6.310000,not low,female,smoker,not married,white
+593,30.000000,35,mature mom,38,full term,11.000000,20.000000,7.390000,not low,female,nonsmoker,married,white
+594,30.000000,27,younger mom,39,full term,13.000000,42.000000,7.740000,not low,male,nonsmoker,married,white
+595,,29,younger mom,21,premie,4.000000,,0.750000,low,female,smoker,not married,not white
+596,34.000000,31,younger mom,41,full term,12.000000,37.000000,7.500000,not low,female,nonsmoker,married,white
+597,22.000000,22,younger mom,40,full term,7.000000,18.000000,5.940000,not low,male,nonsmoker,not married,not white
+598,34.000000,33,younger mom,39,full term,11.000000,36.000000,5.680000,not low,female,nonsmoker,married,not white
+599,27.000000,24,younger mom,38,full term,10.000000,47.000000,5.600000,not low,male,nonsmoker,married,white
+600,28.000000,24,younger mom,37,full term,14.000000,42.000000,7.250000,not low,male,nonsmoker,married,white
+601,28.000000,20,younger mom,39,full term,10.000000,45.000000,8.060000,not low,male,nonsmoker,married,white
+602,38.000000,32,younger mom,39,full term,10.000000,67.000000,8.530000,not low,male,nonsmoker,not married,not white
+603,42.000000,33,younger mom,39,full term,10.000000,15.000000,7.810000,not low,female,nonsmoker,married,white
+604,29.000000,27,younger mom,40,full term,15.000000,31.000000,7.540000,not low,female,nonsmoker,married,white
+605,24.000000,25,younger mom,40,full term,18.000000,13.000000,7.250000,not low,male,nonsmoker,married,white
+606,27.000000,27,younger mom,39,full term,13.000000,30.000000,8.750000,not low,female,nonsmoker,married,white
+607,25.000000,24,younger mom,39,full term,11.000000,32.000000,8.500000,not low,male,nonsmoker,married,white
+608,,23,younger mom,34,premie,0.000000,22.000000,4.960000,low,male,nonsmoker,not married,not white
+609,35.000000,38,mature mom,39,full term,,30.000000,8.190000,not low,male,smoker,married,white
+610,34.000000,31,younger mom,41,full term,9.000000,20.000000,8.440000,not low,male,nonsmoker,married,white
+611,48.000000,40,mature mom,36,premie,12.000000,44.000000,6.800000,not low,male,nonsmoker,married,white
+612,41.000000,35,mature mom,39,full term,13.000000,36.000000,9.870000,not low,male,nonsmoker,married,white
+613,27.000000,24,younger mom,38,full term,15.000000,48.000000,6.940000,not low,female,nonsmoker,married,white
+614,47.000000,36,mature mom,39,full term,19.000000,15.000000,7.890000,not low,female,nonsmoker,married,not white
+615,27.000000,26,younger mom,40,full term,15.000000,34.000000,6.770000,not low,female,nonsmoker,married,white
+616,30.000000,30,younger mom,40,full term,7.000000,39.000000,9.120000,not low,male,nonsmoker,not married,white
+617,34.000000,31,younger mom,41,full term,10.000000,34.000000,8.720000,not low,female,,married,not white
+618,41.000000,41,mature mom,40,full term,1.000000,20.000000,9.000000,not low,male,nonsmoker,married,white
+619,22.000000,20,younger mom,23,premie,5.000000,35.000000,3.330000,low,female,nonsmoker,not married,not white
+620,,21,younger mom,41,full term,14.000000,39.000000,6.380000,not low,female,nonsmoker,not married,not white
+621,25.000000,27,younger mom,39,full term,9.000000,40.000000,7.560000,not low,female,nonsmoker,married,white
+622,23.000000,25,younger mom,41,full term,13.000000,7.000000,7.290000,not low,male,nonsmoker,not married,white
+623,37.000000,34,younger mom,42,full term,9.000000,40.000000,6.940000,not low,female,nonsmoker,married,white
+624,32.000000,34,younger mom,39,full term,8.000000,53.000000,8.260000,not low,female,nonsmoker,married,not white
+625,34.000000,33,younger mom,40,full term,13.000000,42.000000,8.380000,not low,male,nonsmoker,married,white
+626,33.000000,21,younger mom,43,full term,12.000000,14.000000,7.690000,not low,male,nonsmoker,married,white
+627,29.000000,26,younger mom,38,full term,10.000000,34.000000,6.920000,not low,male,nonsmoker,married,white
+628,20.000000,22,younger mom,38,full term,20.000000,59.000000,7.870000,not low,female,nonsmoker,not married,white
+629,28.000000,30,younger mom,37,full term,12.000000,32.000000,8.270000,not low,male,nonsmoker,married,white
+630,21.000000,25,younger mom,41,full term,9.000000,16.000000,8.520000,not low,male,nonsmoker,married,not white
+631,18.000000,23,younger mom,36,premie,20.000000,56.000000,7.870000,not low,male,nonsmoker,not married,not white
+632,20.000000,20,younger mom,39,full term,11.000000,50.000000,5.370000,low,male,nonsmoker,not married,white
+633,35.000000,33,younger mom,37,full term,10.000000,42.000000,5.810000,not low,female,nonsmoker,married,not white
+634,36.000000,34,younger mom,40,full term,18.000000,24.000000,6.530000,not low,female,nonsmoker,married,white
+635,44.000000,38,mature mom,39,full term,16.000000,21.000000,6.620000,not low,male,nonsmoker,married,not white
+636,35.000000,35,mature mom,40,full term,13.000000,42.000000,9.000000,not low,female,nonsmoker,married,white
+637,22.000000,22,younger mom,36,premie,20.000000,70.000000,5.690000,not low,female,nonsmoker,married,white
+638,,23,younger mom,23,premie,0.000000,11.000000,1.190000,low,female,nonsmoker,not married,white
+639,31.000000,24,younger mom,39,full term,6.000000,14.000000,7.180000,not low,male,,not married,not white
+640,27.000000,32,younger mom,36,premie,9.000000,28.000000,6.940000,not low,male,,married,not white
+641,42.000000,35,mature mom,39,full term,11.000000,27.000000,7.940000,not low,female,nonsmoker,married,white
+642,36.000000,38,mature mom,35,premie,10.000000,20.000000,8.880000,not low,male,nonsmoker,married,white
+643,,17,younger mom,38,full term,10.000000,17.000000,8.750000,not low,female,nonsmoker,not married,not white
+644,24.000000,20,younger mom,39,full term,12.000000,39.000000,7.220000,not low,male,nonsmoker,not married,not white
+645,21.000000,24,younger mom,39,full term,9.000000,58.000000,8.460000,not low,male,nonsmoker,not married,white
+646,31.000000,33,younger mom,38,full term,20.000000,9.000000,7.710000,not low,female,nonsmoker,married,white
+647,35.000000,33,younger mom,33,premie,10.000000,18.000000,4.630000,low,female,nonsmoker,married,white
+648,41.000000,38,mature mom,44,full term,20.000000,16.000000,9.500000,not low,female,nonsmoker,not married,white
+649,26.000000,28,younger mom,37,full term,16.000000,5.000000,6.270000,not low,male,nonsmoker,married,white
+650,28.000000,28,younger mom,40,full term,,25.000000,7.630000,not low,male,smoker,married,white
+651,33.000000,30,younger mom,38,full term,10.000000,26.000000,6.880000,not low,female,nonsmoker,married,white
+652,36.000000,21,younger mom,40,full term,20.000000,44.000000,8.180000,not low,male,nonsmoker,not married,white
+653,,16,younger mom,43,full term,12.000000,28.000000,6.070000,not low,female,nonsmoker,not married,white
+654,38.000000,32,younger mom,39,full term,20.000000,40.000000,8.190000,not low,male,nonsmoker,married,white
+655,22.000000,28,younger mom,41,full term,11.000000,63.000000,8.820000,not low,female,nonsmoker,not married,white
+656,,32,younger mom,37,full term,16.000000,,6.790000,not low,female,nonsmoker,not married,white
+657,25.000000,18,younger mom,39,full term,12.000000,31.000000,7.190000,not low,female,nonsmoker,not married,white
+658,,22,younger mom,33,premie,4.000000,2.000000,6.420000,not low,male,nonsmoker,not married,white
+659,34.000000,30,younger mom,39,full term,17.000000,18.000000,6.890000,not low,male,nonsmoker,married,white
+660,22.000000,21,younger mom,39,full term,8.000000,,9.230000,not low,female,nonsmoker,not married,white
+661,30.000000,30,younger mom,38,full term,8.000000,2.000000,6.080000,not low,male,nonsmoker,married,not white
+662,23.000000,23,younger mom,38,full term,12.000000,55.000000,7.360000,not low,male,nonsmoker,married,white
+663,31.000000,30,younger mom,39,full term,14.000000,39.000000,8.350000,not low,male,nonsmoker,married,white
+664,39.000000,27,younger mom,37,full term,10.000000,36.000000,7.300000,not low,female,nonsmoker,not married,not white
+665,20.000000,19,younger mom,39,full term,12.000000,53.000000,8.870000,not low,female,nonsmoker,not married,not white
+666,35.000000,30,younger mom,34,premie,8.000000,53.000000,4.380000,low,female,nonsmoker,married,white
+667,32.000000,22,younger mom,36,premie,6.000000,14.000000,5.310000,low,male,nonsmoker,not married,white
+668,26.000000,30,younger mom,35,premie,,37.000000,6.110000,not low,male,smoker,not married,not white
+669,30.000000,27,younger mom,34,premie,10.000000,23.000000,5.880000,not low,male,nonsmoker,married,white
+670,30.000000,32,younger mom,41,full term,14.000000,28.000000,5.810000,not low,female,nonsmoker,not married,white
+671,28.000000,29,younger mom,41,full term,15.000000,45.000000,7.560000,not low,female,nonsmoker,married,white
+672,,17,younger mom,38,full term,11.000000,8.000000,7.090000,not low,male,nonsmoker,not married,white
+673,,31,younger mom,38,full term,20.000000,22.000000,8.310000,not low,male,smoker,not married,white
+674,25.000000,30,younger mom,41,full term,18.000000,8.000000,7.180000,not low,male,nonsmoker,not married,white
+675,40.000000,33,younger mom,36,premie,15.000000,38.000000,5.470000,low,female,smoker,not married,not white
+676,42.000000,32,younger mom,39,full term,5.000000,33.000000,6.900000,not low,female,smoker,not married,white
+677,20.000000,19,younger mom,41,full term,9.000000,10.000000,6.220000,not low,male,nonsmoker,not married,white
+678,,19,younger mom,39,full term,10.000000,25.000000,6.930000,not low,female,nonsmoker,not married,not white
+679,35.000000,26,younger mom,36,premie,12.000000,30.000000,5.710000,not low,male,nonsmoker,married,white
+680,25.000000,25,younger mom,40,full term,10.000000,14.000000,7.440000,not low,male,nonsmoker,not married,not white
+681,,27,younger mom,39,full term,16.000000,10.000000,6.670000,not low,female,nonsmoker,married,white
+682,,21,younger mom,39,full term,12.000000,26.000000,6.620000,not low,female,nonsmoker,married,white
+683,33.000000,37,mature mom,37,full term,12.000000,59.000000,9.460000,not low,male,nonsmoker,married,white
+684,38.000000,40,mature mom,35,premie,6.000000,17.000000,5.000000,low,female,smoker,not married,white
+685,27.000000,25,younger mom,39,full term,8.000000,25.000000,6.940000,not low,female,nonsmoker,not married,white
+686,36.000000,36,mature mom,39,full term,6.000000,33.000000,6.810000,not low,male,nonsmoker,married,white
+687,21.000000,20,younger mom,38,full term,7.000000,44.000000,7.110000,not low,female,nonsmoker,not married,white
+688,20.000000,24,younger mom,40,full term,13.000000,33.000000,8.690000,not low,male,nonsmoker,married,white
+689,21.000000,25,younger mom,39,full term,10.000000,35.000000,6.760000,not low,female,nonsmoker,not married,not white
+690,43.000000,38,mature mom,38,full term,8.000000,44.000000,8.720000,not low,male,nonsmoker,married,white
+691,36.000000,36,mature mom,35,premie,,46.000000,6.310000,not low,male,nonsmoker,married,white
+692,28.000000,29,younger mom,40,full term,4.000000,32.000000,8.060000,not low,male,nonsmoker,married,white
+693,30.000000,30,younger mom,39,full term,15.000000,25.000000,7.500000,not low,male,nonsmoker,married,white
+694,31.000000,29,younger mom,28,premie,1.000000,,2.060000,low,female,,not married,not white
+695,31.000000,30,younger mom,39,full term,,36.000000,7.940000,not low,male,smoker,married,white
+696,29.000000,28,younger mom,40,full term,14.000000,23.000000,7.500000,not low,female,nonsmoker,married,white
+697,44.000000,33,younger mom,37,full term,20.000000,41.000000,7.770000,not low,male,nonsmoker,married,white
+698,30.000000,33,younger mom,39,full term,16.000000,32.000000,9.330000,not low,female,nonsmoker,married,white
+699,,40,mature mom,32,premie,0.000000,20.000000,1.830000,low,female,nonsmoker,not married,not white
+700,30.000000,34,younger mom,40,full term,,17.000000,7.520000,not low,male,smoker,married,white
+701,24.000000,21,younger mom,41,full term,10.000000,22.000000,7.760000,not low,male,nonsmoker,married,not white
+702,32.000000,29,younger mom,40,full term,15.000000,30.000000,6.620000,not low,female,nonsmoker,married,white
+703,34.000000,30,younger mom,41,full term,14.000000,,6.690000,not low,female,nonsmoker,married,white
+704,,25,younger mom,39,full term,15.000000,20.000000,7.230000,not low,female,nonsmoker,not married,white
+705,28.000000,26,younger mom,40,full term,,43.000000,7.630000,not low,female,nonsmoker,married,white
+706,30.000000,25,younger mom,38,full term,10.000000,11.000000,6.120000,not low,male,nonsmoker,not married,white
+707,20.000000,21,younger mom,39,full term,19.000000,35.000000,8.500000,not low,male,nonsmoker,not married,white
+708,27.000000,27,younger mom,40,full term,10.000000,11.000000,8.540000,not low,male,nonsmoker,not married,not white
+709,39.000000,31,younger mom,40,full term,6.000000,25.000000,6.450000,not low,female,nonsmoker,married,white
+710,23.000000,30,younger mom,41,full term,10.000000,20.000000,6.500000,not low,male,smoker,not married,white
+711,21.000000,20,younger mom,40,full term,10.000000,25.000000,5.820000,not low,female,nonsmoker,not married,white
+712,23.000000,30,younger mom,37,full term,13.000000,49.000000,6.880000,not low,female,smoker,not married,white
+713,26.000000,24,younger mom,40,full term,15.000000,,6.660000,not low,female,nonsmoker,married,not white
+714,20.000000,21,younger mom,43,full term,13.000000,60.000000,8.370000,not low,male,nonsmoker,not married,not white
+715,,24,younger mom,41,full term,12.000000,45.000000,7.750000,not low,male,nonsmoker,not married,not white
+716,31.000000,37,mature mom,40,full term,15.000000,37.000000,7.630000,not low,male,nonsmoker,not married,white
+717,30.000000,29,younger mom,39,full term,12.000000,30.000000,7.810000,not low,male,nonsmoker,married,white
+718,37.000000,35,mature mom,37,full term,8.000000,24.000000,6.370000,not low,female,nonsmoker,married,not white
+719,,20,younger mom,42,full term,13.000000,17.000000,6.440000,not low,female,nonsmoker,not married,white
+720,,23,younger mom,40,full term,,55.000000,7.790000,not low,male,smoker,not married,not white
+721,29.000000,28,younger mom,38,full term,11.000000,28.000000,7.560000,not low,male,nonsmoker,married,not white
+722,36.000000,34,younger mom,38,full term,10.000000,34.000000,9.000000,not low,male,nonsmoker,married,white
+723,33.000000,32,younger mom,38,full term,,,6.190000,not low,female,nonsmoker,married,white
+724,38.000000,35,mature mom,40,full term,,30.000000,7.870000,not low,male,smoker,married,white
+725,29.000000,29,younger mom,36,premie,11.000000,24.000000,5.300000,low,female,nonsmoker,married,white
+726,18.000000,18,younger mom,40,full term,7.000000,54.000000,8.750000,not low,female,nonsmoker,not married,white
+727,,26,younger mom,40,full term,5.000000,0.000000,8.060000,not low,female,nonsmoker,not married,not white
+728,32.000000,27,younger mom,41,full term,13.000000,31.000000,6.870000,not low,male,nonsmoker,not married,white
+729,,28,younger mom,42,full term,11.000000,36.000000,6.140000,not low,female,,not married,not white
+730,27.000000,29,younger mom,38,full term,14.000000,29.000000,7.190000,not low,female,nonsmoker,married,white
+731,21.000000,24,younger mom,39,full term,13.000000,32.000000,7.840000,not low,female,nonsmoker,not married,white
+732,39.000000,35,mature mom,40,full term,11.000000,50.000000,9.430000,not low,female,nonsmoker,not married,not white
+733,35.000000,29,younger mom,39,full term,10.000000,27.000000,7.810000,not low,female,nonsmoker,married,white
+734,37.000000,35,mature mom,35,premie,20.000000,45.000000,5.030000,low,male,nonsmoker,married,white
+735,39.000000,37,mature mom,39,full term,4.000000,18.000000,6.260000,not low,female,nonsmoker,married,white
+736,35.000000,33,younger mom,36,premie,10.000000,54.000000,8.600000,not low,male,nonsmoker,married,white
+737,,27,younger mom,38,full term,5.000000,30.000000,6.790000,not low,male,nonsmoker,not married,white
+738,30.000000,35,mature mom,37,full term,10.000000,48.000000,7.690000,not low,female,nonsmoker,married,white
+739,23.000000,18,younger mom,42,full term,6.000000,,6.620000,not low,female,nonsmoker,not married,white
+740,27.000000,25,younger mom,38,full term,10.000000,28.000000,6.670000,not low,male,smoker,not married,white
+741,,29,younger mom,39,full term,12.000000,15.000000,7.310000,not low,male,nonsmoker,not married,not white
+742,34.000000,32,younger mom,40,full term,14.000000,27.000000,7.750000,not low,female,nonsmoker,married,white
+743,29.000000,27,younger mom,39,full term,10.000000,28.000000,7.440000,not low,male,nonsmoker,not married,white
+744,30.000000,30,younger mom,40,full term,9.000000,50.000000,10.130000,not low,male,nonsmoker,married,white
+745,20.000000,22,younger mom,41,full term,18.000000,67.000000,10.030000,not low,male,nonsmoker,not married,white
+746,24.000000,38,mature mom,41,full term,3.000000,,9.030000,not low,female,nonsmoker,not married,white
+747,24.000000,19,younger mom,39,full term,11.000000,23.000000,6.920000,not low,female,nonsmoker,not married,white
+748,27.000000,29,younger mom,33,premie,9.000000,17.000000,5.720000,not low,male,nonsmoker,married,white
+749,24.000000,27,younger mom,40,full term,12.000000,33.000000,8.080000,not low,female,nonsmoker,not married,white
+750,22.000000,23,younger mom,37,full term,13.000000,36.000000,5.990000,not low,male,nonsmoker,married,white
+751,31.000000,29,younger mom,41,full term,12.000000,45.000000,8.250000,not low,male,nonsmoker,married,white
+752,30.000000,38,mature mom,40,full term,14.000000,21.000000,7.610000,not low,male,nonsmoker,married,white
+753,45.000000,34,younger mom,38,full term,12.000000,26.000000,5.750000,not low,male,nonsmoker,married,white
+754,34.000000,26,younger mom,38,full term,12.000000,27.000000,7.390000,not low,male,nonsmoker,not married,not white
+755,37.000000,34,younger mom,41,full term,12.000000,11.000000,8.990000,not low,male,nonsmoker,married,white
+756,23.000000,23,younger mom,39,full term,9.000000,13.000000,5.910000,not low,female,nonsmoker,married,white
+757,,21,younger mom,38,full term,10.000000,42.000000,7.540000,not low,female,nonsmoker,not married,not white
+758,43.000000,32,younger mom,40,full term,18.000000,,7.500000,not low,male,nonsmoker,not married,not white
+759,34.000000,29,younger mom,43,full term,12.000000,10.000000,6.880000,not low,male,nonsmoker,not married,white
+760,44.000000,36,mature mom,40,full term,13.000000,29.000000,6.500000,not low,female,nonsmoker,married,white
+761,29.000000,29,younger mom,41,full term,21.000000,44.000000,8.990000,not low,female,nonsmoker,married,white
+762,42.000000,36,mature mom,39,full term,10.000000,40.000000,8.250000,not low,male,nonsmoker,married,white
+763,36.000000,32,younger mom,37,full term,12.000000,21.000000,5.220000,low,male,smoker,not married,white
+764,,39,mature mom,41,full term,,,6.310000,not low,female,nonsmoker,not married,white
+765,29.000000,30,younger mom,31,premie,14.000000,51.000000,3.220000,low,male,nonsmoker,married,white
+766,27.000000,24,younger mom,39,full term,12.000000,37.000000,7.930000,not low,female,nonsmoker,married,white
+767,24.000000,22,younger mom,39,full term,18.000000,30.000000,7.310000,not low,female,nonsmoker,not married,white
+768,33.000000,30,younger mom,39,full term,12.000000,22.000000,7.390000,not low,female,nonsmoker,married,not white
+769,,26,younger mom,40,full term,9.000000,28.000000,5.330000,low,female,nonsmoker,not married,not white
+770,35.000000,31,younger mom,37,full term,6.000000,41.000000,7.060000,not low,male,smoker,married,not white
+771,,20,younger mom,41,full term,15.000000,26.000000,7.620000,not low,male,nonsmoker,not married,white
+772,39.000000,32,younger mom,39,full term,6.000000,9.000000,7.500000,not low,female,nonsmoker,married,white
+773,34.000000,30,younger mom,44,full term,14.000000,34.000000,7.710000,not low,female,nonsmoker,married,not white
+774,35.000000,31,younger mom,38,full term,12.000000,32.000000,5.180000,low,male,nonsmoker,married,not white
+775,22.000000,24,younger mom,41,full term,12.000000,30.000000,7.610000,not low,female,nonsmoker,not married,white
+776,24.000000,22,younger mom,40,full term,13.000000,32.000000,6.750000,not low,male,nonsmoker,not married,not white
+777,27.000000,25,younger mom,39,full term,9.000000,28.000000,7.630000,not low,female,nonsmoker,married,white
+778,30.000000,29,younger mom,41,full term,17.000000,47.000000,7.560000,not low,female,nonsmoker,not married,white
+779,28.000000,27,younger mom,39,full term,10.000000,30.000000,6.930000,not low,male,nonsmoker,married,white
+780,38.000000,36,mature mom,34,premie,,41.000000,8.110000,not low,male,smoker,married,white
+781,27.000000,31,younger mom,39,full term,9.000000,27.000000,6.940000,not low,female,nonsmoker,married,white
+782,38.000000,23,younger mom,39,full term,11.000000,54.000000,7.130000,not low,female,nonsmoker,married,white
+783,37.000000,35,mature mom,40,full term,13.000000,32.000000,10.130000,not low,male,nonsmoker,married,white
+784,29.000000,22,younger mom,40,full term,12.000000,23.000000,8.010000,not low,male,nonsmoker,not married,white
+785,44.000000,27,younger mom,37,full term,13.000000,56.000000,7.410000,not low,male,nonsmoker,married,white
+786,21.000000,23,younger mom,29,premie,6.000000,0.000000,2.200000,low,male,nonsmoker,married,not white
+787,26.000000,24,younger mom,40,full term,12.000000,48.000000,7.960000,not low,female,nonsmoker,married,white
+788,28.000000,29,younger mom,41,full term,14.000000,32.000000,7.330000,not low,female,nonsmoker,married,white
+789,38.000000,32,younger mom,39,full term,13.000000,25.000000,5.290000,low,female,nonsmoker,married,white
+790,33.000000,26,younger mom,41,full term,10.000000,17.000000,6.750000,not low,female,nonsmoker,married,white
+791,41.000000,34,younger mom,39,full term,15.000000,29.000000,7.190000,not low,male,nonsmoker,married,white
+792,29.000000,27,younger mom,39,full term,15.000000,9.000000,5.400000,low,male,smoker,not married,white
+793,28.000000,28,younger mom,40,full term,13.000000,38.000000,7.150000,not low,male,nonsmoker,married,white
+794,38.000000,37,mature mom,39,full term,,45.000000,7.460000,not low,female,smoker,married,white
+795,,17,younger mom,38,full term,16.000000,41.000000,7.500000,not low,male,nonsmoker,not married,white
+796,,19,younger mom,39,full term,14.000000,64.000000,6.810000,not low,male,nonsmoker,not married,not white
+797,31.000000,29,younger mom,46,full term,19.000000,98.000000,6.690000,not low,female,nonsmoker,married,white
+798,40.000000,34,younger mom,39,full term,8.000000,27.000000,7.940000,not low,female,nonsmoker,not married,not white
+799,32.000000,31,younger mom,39,full term,12.000000,36.000000,7.250000,not low,male,nonsmoker,married,white
+800,42.000000,29,younger mom,38,full term,12.000000,57.000000,7.120000,not low,male,nonsmoker,married,not white
+801,32.000000,34,younger mom,38,full term,10.000000,20.000000,7.560000,not low,female,nonsmoker,married,white
+802,30.000000,28,younger mom,38,full term,10.000000,43.000000,8.250000,not low,male,nonsmoker,married,white
+803,34.000000,30,younger mom,40,full term,13.000000,25.000000,8.190000,not low,male,nonsmoker,not married,white
+804,34.000000,34,younger mom,37,full term,11.000000,40.000000,7.640000,not low,male,nonsmoker,married,white
+805,28.000000,28,younger mom,39,full term,12.000000,37.000000,9.570000,not low,male,nonsmoker,married,white
+806,21.000000,22,younger mom,38,full term,12.000000,32.000000,8.560000,not low,male,nonsmoker,not married,white
+807,30.000000,30,younger mom,40,full term,12.000000,42.000000,8.310000,not low,male,nonsmoker,married,white
+808,32.000000,30,younger mom,37,full term,9.000000,25.000000,5.050000,low,female,nonsmoker,married,not white
+809,39.000000,27,younger mom,39,full term,10.000000,20.000000,6.750000,not low,male,nonsmoker,married,not white
+810,33.000000,30,younger mom,38,full term,13.000000,60.000000,8.930000,not low,male,nonsmoker,married,white
+811,21.000000,20,younger mom,29,premie,18.000000,42.000000,4.140000,low,female,nonsmoker,not married,not white
+812,27.000000,31,younger mom,40,full term,15.000000,42.000000,9.330000,not low,female,nonsmoker,married,white
+813,32.000000,32,younger mom,42,full term,12.000000,27.000000,7.440000,not low,male,nonsmoker,married,white
+814,40.000000,34,younger mom,38,full term,9.000000,42.000000,9.630000,not low,female,nonsmoker,married,white
+815,31.000000,29,younger mom,38,full term,20.000000,19.000000,7.190000,not low,female,nonsmoker,married,white
+816,31.000000,31,younger mom,39,full term,11.000000,42.000000,9.410000,not low,male,nonsmoker,married,white
+817,26.000000,26,younger mom,40,full term,15.000000,19.000000,7.940000,not low,female,nonsmoker,married,white
+818,26.000000,36,mature mom,38,full term,11.000000,38.000000,6.310000,not low,female,nonsmoker,married,white
+819,33.000000,34,younger mom,38,full term,12.000000,36.000000,7.250000,not low,female,nonsmoker,married,white
+820,38.000000,36,mature mom,39,full term,13.000000,30.000000,7.730000,not low,female,nonsmoker,married,not white
+821,22.000000,22,younger mom,40,full term,12.000000,22.000000,7.130000,not low,female,nonsmoker,not married,white
+822,35.000000,33,younger mom,40,full term,15.000000,25.000000,7.750000,not low,male,nonsmoker,married,white
+823,43.000000,36,mature mom,38,full term,1.000000,33.000000,6.330000,not low,female,nonsmoker,married,white
+824,32.000000,27,younger mom,39,full term,11.000000,35.000000,8.810000,not low,male,nonsmoker,married,white
+825,28.000000,34,younger mom,39,full term,15.000000,23.000000,7.370000,not low,male,nonsmoker,married,white
+826,40.000000,36,mature mom,36,premie,9.000000,35.000000,6.560000,not low,male,nonsmoker,married,white
+827,29.000000,26,younger mom,41,full term,12.000000,20.000000,7.690000,not low,female,nonsmoker,not married,not white
+828,65.000000,36,mature mom,36,premie,11.000000,10.000000,4.540000,low,female,nonsmoker,married,not white
+829,34.000000,29,younger mom,39,full term,11.000000,40.000000,8.810000,not low,male,nonsmoker,married,white
+830,19.000000,19,younger mom,40,full term,20.000000,46.000000,8.660000,not low,female,nonsmoker,not married,white
+831,30.000000,30,younger mom,36,premie,18.000000,20.000000,5.060000,low,female,nonsmoker,married,white
+832,33.000000,34,younger mom,35,premie,30.000000,51.000000,6.150000,not low,male,nonsmoker,not married,white
+833,26.000000,24,younger mom,37,full term,8.000000,33.000000,7.190000,not low,male,nonsmoker,not married,white
+834,30.000000,36,mature mom,41,full term,13.000000,,6.450000,not low,female,nonsmoker,not married,white
+835,15.000000,21,younger mom,34,premie,9.000000,43.000000,4.320000,low,male,smoker,not married,not white
+836,35.000000,21,younger mom,40,full term,20.000000,13.000000,7.630000,not low,female,nonsmoker,married,white
+837,35.000000,35,mature mom,39,full term,,18.000000,8.130000,not low,male,smoker,married,white
+838,35.000000,34,younger mom,40,full term,11.000000,29.000000,6.320000,not low,female,smoker,not married,white
+839,,27,younger mom,40,full term,10.000000,35.000000,7.370000,not low,male,nonsmoker,not married,not white
+840,,20,younger mom,40,full term,12.000000,40.000000,8.190000,not low,male,nonsmoker,married,white
+841,37.000000,26,younger mom,38,full term,0.000000,0.000000,7.110000,not low,male,nonsmoker,married,not white
+842,29.000000,24,younger mom,39,full term,10.000000,21.000000,7.810000,not low,female,nonsmoker,not married,not white
+843,32.000000,34,younger mom,39,full term,10.000000,35.000000,8.380000,not low,female,nonsmoker,married,white
+844,18.000000,14,younger mom,38,full term,1.000000,22.000000,6.250000,not low,female,nonsmoker,not married,not white
+845,25.000000,30,younger mom,39,full term,,,6.810000,not low,female,nonsmoker,married,not white
+846,29.000000,29,younger mom,42,full term,6.000000,20.000000,7.820000,not low,male,nonsmoker,married,white
+847,,26,younger mom,41,full term,13.000000,31.000000,8.250000,not low,male,nonsmoker,not married,white
+848,32.000000,32,younger mom,39,full term,12.000000,39.000000,8.560000,not low,male,nonsmoker,married,white
+849,32.000000,33,younger mom,35,premie,10.000000,39.000000,5.880000,not low,male,nonsmoker,married,white
+850,25.000000,27,younger mom,39,full term,11.000000,51.000000,6.940000,not low,female,nonsmoker,not married,white
+851,34.000000,30,younger mom,37,full term,12.000000,34.000000,7.190000,not low,female,nonsmoker,married,white
+852,39.000000,39,mature mom,39,full term,12.000000,21.000000,8.060000,not low,male,nonsmoker,married,white
+853,38.000000,31,younger mom,37,full term,14.000000,30.000000,8.310000,not low,male,nonsmoker,not married,white
+854,38.000000,33,younger mom,39,full term,7.000000,13.000000,7.370000,not low,female,smoker,married,white
+855,35.000000,36,mature mom,39,full term,12.000000,29.000000,8.380000,not low,male,nonsmoker,married,not white
+856,27.000000,37,mature mom,39,full term,10.000000,46.000000,8.020000,not low,male,nonsmoker,not married,white
+857,48.000000,34,younger mom,38,full term,10.000000,17.000000,6.620000,not low,female,nonsmoker,married,white
+858,22.000000,20,younger mom,39,full term,12.000000,21.000000,6.440000,not low,female,nonsmoker,not married,white
+859,22.000000,21,younger mom,27,premie,9.000000,28.000000,6.190000,not low,male,smoker,not married,white
+860,20.000000,21,younger mom,39,full term,8.000000,32.000000,7.490000,not low,male,nonsmoker,not married,white
+861,26.000000,23,younger mom,38,full term,10.000000,22.000000,7.000000,not low,male,nonsmoker,married,white
+862,34.000000,29,younger mom,39,full term,12.000000,20.000000,8.600000,not low,male,nonsmoker,married,white
+863,33.000000,33,younger mom,40,full term,11.000000,45.000000,8.980000,not low,female,nonsmoker,married,white
+864,30.000000,31,younger mom,30,premie,14.000000,28.000000,4.310000,low,male,nonsmoker,not married,white
+865,25.000000,27,younger mom,40,full term,13.000000,34.000000,7.940000,not low,female,nonsmoker,not married,white
+866,23.000000,20,younger mom,40,full term,12.000000,52.000000,8.310000,not low,male,nonsmoker,not married,white
+867,36.000000,33,younger mom,41,full term,12.000000,21.000000,6.810000,not low,female,nonsmoker,married,white
+868,28.000000,23,younger mom,38,full term,11.000000,18.000000,7.060000,not low,female,nonsmoker,not married,white
+869,39.000000,27,younger mom,37,full term,11.000000,37.000000,6.380000,not low,male,nonsmoker,not married,white
+870,43.000000,29,younger mom,38,full term,14.000000,47.000000,7.870000,not low,female,nonsmoker,married,white
+871,26.000000,27,younger mom,40,full term,20.000000,24.000000,7.810000,not low,female,nonsmoker,married,white
+872,35.000000,38,mature mom,41,full term,10.000000,21.000000,8.720000,not low,male,nonsmoker,married,white
+873,32.000000,26,younger mom,39,full term,7.000000,50.000000,7.980000,not low,female,nonsmoker,not married,white
+874,,22,younger mom,38,full term,3.000000,20.000000,6.420000,not low,male,nonsmoker,not married,not white
+875,28.000000,26,younger mom,38,full term,11.000000,24.000000,7.910000,not low,female,nonsmoker,married,white
+876,25.000000,28,younger mom,39,full term,15.000000,6.000000,8.630000,not low,male,nonsmoker,married,white
+877,29.000000,25,younger mom,39,full term,11.000000,52.000000,7.750000,not low,male,nonsmoker,married,white
+878,,23,younger mom,41,full term,14.000000,3.000000,6.770000,not low,male,smoker,not married,white
+879,22.000000,19,younger mom,39,full term,12.000000,,5.470000,low,male,smoker,not married,white
+880,43.000000,35,mature mom,39,full term,13.000000,21.000000,10.410000,not low,male,nonsmoker,not married,white
+881,43.000000,33,younger mom,39,full term,10.000000,71.000000,6.940000,not low,female,nonsmoker,married,not white
+882,30.000000,26,younger mom,43,full term,12.000000,38.000000,8.200000,not low,male,nonsmoker,married,white
+883,31.000000,29,younger mom,39,full term,7.000000,30.000000,7.970000,not low,female,nonsmoker,not married,white
+884,30.000000,26,younger mom,39,full term,12.000000,14.000000,6.320000,not low,female,nonsmoker,married,white
+885,27.000000,23,younger mom,41,full term,,18.000000,7.890000,not low,male,smoker,married,not white
+886,35.000000,30,younger mom,39,full term,,18.000000,6.390000,not low,female,smoker,married,not white
+887,32.000000,23,younger mom,40,full term,13.000000,53.000000,7.470000,not low,male,smoker,married,white
+888,21.000000,19,younger mom,37,full term,3.000000,,5.900000,not low,female,nonsmoker,not married,white
+889,37.000000,34,younger mom,39,full term,20.000000,41.000000,7.560000,not low,female,nonsmoker,not married,white
+890,33.000000,20,younger mom,38,full term,14.000000,38.000000,6.910000,not low,female,nonsmoker,not married,not white
+891,,20,younger mom,41,full term,11.000000,55.000000,8.940000,not low,male,nonsmoker,not married,white
+892,38.000000,34,younger mom,41,full term,15.000000,32.000000,7.450000,not low,female,nonsmoker,married,white
+893,,21,younger mom,39,full term,14.000000,18.000000,7.010000,not low,male,nonsmoker,not married,white
+894,,28,younger mom,38,full term,10.000000,0.000000,6.240000,not low,female,nonsmoker,not married,not white
+895,,25,younger mom,39,full term,7.000000,13.000000,6.000000,not low,male,nonsmoker,not married,white
+896,37.000000,34,younger mom,40,full term,8.000000,35.000000,8.640000,not low,female,nonsmoker,married,white
+897,42.000000,31,younger mom,34,premie,7.000000,47.000000,5.110000,low,male,nonsmoker,married,white
+898,37.000000,36,mature mom,40,full term,10.000000,16.000000,9.440000,not low,male,nonsmoker,married,white
+899,31.000000,29,younger mom,39,full term,9.000000,36.000000,7.250000,not low,male,nonsmoker,married,white
+900,,37,mature mom,41,full term,12.000000,51.000000,7.870000,not low,male,nonsmoker,not married,white
+901,32.000000,33,younger mom,34,premie,8.000000,70.000000,5.060000,low,female,nonsmoker,married,white
+902,25.000000,24,younger mom,37,full term,14.000000,25.000000,7.560000,not low,female,nonsmoker,not married,white
+903,35.000000,31,younger mom,40,full term,12.000000,40.000000,8.000000,not low,male,nonsmoker,married,white
+904,36.000000,33,younger mom,40,full term,12.000000,19.000000,6.830000,not low,male,nonsmoker,married,white
+905,25.000000,31,younger mom,40,full term,3.000000,30.000000,6.750000,not low,female,nonsmoker,married,white
+906,25.000000,21,younger mom,41,full term,10.000000,29.000000,7.110000,not low,male,nonsmoker,not married,not white
+907,43.000000,37,mature mom,39,full term,12.000000,11.000000,6.940000,not low,female,nonsmoker,married,white
+908,43.000000,38,mature mom,41,full term,10.000000,37.000000,7.190000,not low,male,nonsmoker,not married,white
+909,36.000000,36,mature mom,39,full term,14.000000,36.000000,9.350000,not low,female,nonsmoker,married,white
+910,49.000000,26,younger mom,40,full term,15.000000,41.000000,8.000000,not low,male,nonsmoker,not married,not white
+911,38.000000,32,younger mom,39,full term,6.000000,0.000000,7.850000,not low,male,smoker,not married,white
+912,32.000000,33,younger mom,38,full term,10.000000,27.000000,7.940000,not low,male,nonsmoker,married,white
+913,34.000000,35,mature mom,32,premie,10.000000,25.000000,6.250000,not low,male,nonsmoker,not married,not white
+914,20.000000,23,younger mom,38,full term,12.000000,29.000000,6.370000,not low,male,nonsmoker,married,white
+915,27.000000,26,younger mom,38,full term,11.000000,64.000000,7.560000,not low,female,nonsmoker,married,white
+916,29.000000,28,younger mom,43,full term,12.000000,,8.950000,not low,male,nonsmoker,married,white
+917,21.000000,23,younger mom,39,full term,11.000000,18.000000,7.130000,not low,female,smoker,not married,white
+918,21.000000,20,younger mom,40,full term,17.000000,25.000000,8.620000,not low,male,nonsmoker,not married,white
+919,30.000000,34,younger mom,39,full term,11.000000,29.000000,7.870000,not low,male,nonsmoker,married,white
+920,25.000000,26,younger mom,39,full term,14.000000,23.000000,5.970000,not low,female,nonsmoker,married,white
+921,,21,younger mom,34,premie,6.000000,39.000000,5.060000,low,male,nonsmoker,not married,not white
+922,27.000000,23,younger mom,39,full term,10.000000,19.000000,8.000000,not low,male,nonsmoker,not married,not white
+923,31.000000,23,younger mom,37,full term,7.000000,22.000000,7.000000,not low,male,smoker,not married,white
+924,26.000000,25,younger mom,37,full term,4.000000,2.000000,5.690000,not low,male,smoker,married,white
+925,39.000000,27,younger mom,38,full term,3.000000,28.000000,5.810000,not low,female,nonsmoker,not married,not white
+926,31.000000,27,younger mom,44,full term,15.000000,31.000000,7.190000,not low,male,nonsmoker,married,white
+927,17.000000,19,younger mom,41,full term,10.000000,34.000000,7.190000,not low,male,nonsmoker,married,white
+928,34.000000,29,younger mom,40,full term,14.000000,20.000000,8.980000,not low,female,nonsmoker,married,white
+929,,22,younger mom,38,full term,,39.000000,6.690000,not low,male,nonsmoker,not married,not white
+930,36.000000,37,mature mom,43,full term,10.000000,39.000000,7.120000,not low,male,nonsmoker,married,not white
+931,27.000000,26,younger mom,38,full term,8.000000,17.000000,7.870000,not low,male,smoker,married,white
+932,37.000000,36,mature mom,39,full term,13.000000,34.000000,8.160000,not low,female,nonsmoker,married,white
+933,28.000000,29,younger mom,41,full term,15.000000,40.000000,7.310000,not low,female,nonsmoker,not married,white
+934,34.000000,27,younger mom,33,premie,5.000000,15.000000,4.280000,low,male,smoker,not married,white
+935,33.000000,28,younger mom,39,full term,19.000000,11.000000,7.340000,not low,female,nonsmoker,married,white
+936,26.000000,24,younger mom,40,full term,16.000000,36.000000,6.870000,not low,female,nonsmoker,married,white
+937,22.000000,22,younger mom,44,full term,14.000000,27.000000,7.940000,not low,male,nonsmoker,married,white
+938,32.000000,36,mature mom,41,full term,12.000000,52.000000,8.620000,not low,female,nonsmoker,married,white
+939,23.000000,22,younger mom,39,full term,8.000000,20.000000,6.820000,not low,female,nonsmoker,not married,white
+940,,23,younger mom,36,premie,5.000000,33.000000,7.990000,not low,female,smoker,not married,white
+941,,27,younger mom,39,full term,13.000000,18.000000,7.460000,not low,female,nonsmoker,not married,white
+942,31.000000,32,younger mom,38,full term,12.000000,8.000000,6.600000,not low,male,smoker,married,white
+943,20.000000,22,younger mom,40,full term,10.000000,31.000000,7.780000,not low,male,nonsmoker,married,white
+944,49.000000,33,younger mom,40,full term,13.000000,36.000000,8.130000,not low,male,nonsmoker,married,white
+945,32.000000,34,younger mom,39,full term,14.000000,27.000000,7.870000,not low,female,nonsmoker,married,white
+946,32.000000,28,younger mom,40,full term,12.000000,43.000000,6.840000,not low,male,nonsmoker,married,not white
+947,34.000000,30,younger mom,41,full term,,30.000000,6.740000,not low,female,smoker,married,white
+948,,29,younger mom,38,full term,9.000000,34.000000,7.440000,not low,female,nonsmoker,married,white
+949,,26,younger mom,38,full term,14.000000,0.000000,7.810000,not low,female,nonsmoker,married,not white
+950,32.000000,26,younger mom,40,full term,13.000000,1.000000,6.570000,not low,female,nonsmoker,married,not white
+951,35.000000,28,younger mom,39,full term,12.000000,,5.850000,not low,male,nonsmoker,married,white
+952,49.000000,38,mature mom,39,full term,14.000000,0.000000,6.990000,not low,male,nonsmoker,married,white
+953,34.000000,29,younger mom,38,full term,8.000000,12.000000,9.190000,not low,female,nonsmoker,not married,white
+954,20.000000,23,younger mom,38,full term,11.000000,35.000000,6.190000,not low,male,nonsmoker,not married,white
+955,30.000000,32,younger mom,40,full term,15.000000,33.000000,6.770000,not low,male,nonsmoker,married,white
+956,43.000000,36,mature mom,36,premie,25.000000,25.000000,6.500000,not low,male,nonsmoker,married,white
+957,44.000000,39,mature mom,39,full term,10.000000,33.000000,7.370000,not low,female,nonsmoker,married,white
+958,28.000000,25,younger mom,38,full term,12.000000,23.000000,5.750000,not low,female,nonsmoker,married,white
+959,34.000000,29,younger mom,39,full term,14.000000,16.000000,8.120000,not low,male,smoker,married,white
+960,30.000000,31,younger mom,32,premie,11.000000,,3.640000,low,male,nonsmoker,married,not white
+961,,31,younger mom,40,full term,6.000000,23.000000,7.740000,not low,female,smoker,married,white
+962,26.000000,29,younger mom,40,full term,12.000000,38.000000,7.190000,not low,male,nonsmoker,married,white
+963,29.000000,28,younger mom,41,full term,18.000000,27.000000,8.810000,not low,male,nonsmoker,married,white
+964,32.000000,28,younger mom,36,premie,12.000000,28.000000,5.880000,not low,female,nonsmoker,married,white
+965,,38,mature mom,38,full term,13.000000,30.000000,8.880000,not low,female,nonsmoker,not married,not white
+966,31.000000,26,younger mom,39,full term,,25.000000,7.250000,not low,female,smoker,married,white
+967,35.000000,38,mature mom,38,full term,11.000000,6.000000,6.690000,not low,female,nonsmoker,married,white
+968,32.000000,30,younger mom,39,full term,12.000000,14.000000,6.830000,not low,female,smoker,not married,white
+969,44.000000,35,mature mom,33,premie,6.000000,29.000000,4.800000,low,male,,married,white
+970,30.000000,27,younger mom,40,full term,10.000000,30.000000,8.630000,not low,male,smoker,not married,not white
+971,36.000000,33,younger mom,36,premie,16.000000,30.000000,8.440000,not low,male,nonsmoker,married,white
+972,37.000000,35,mature mom,38,full term,13.000000,36.000000,5.130000,low,male,nonsmoker,not married,white
+973,48.000000,35,mature mom,40,full term,6.000000,33.000000,8.070000,not low,male,nonsmoker,not married,white
+974,24.000000,24,younger mom,40,full term,12.000000,35.000000,6.030000,not low,male,nonsmoker,not married,white
+975,25.000000,29,younger mom,41,full term,,,7.620000,not low,male,nonsmoker,not married,not white
+976,,34,younger mom,44,full term,4.000000,22.000000,4.670000,low,female,smoker,not married,white
+977,29.000000,23,younger mom,38,full term,7.000000,17.000000,6.050000,not low,male,smoker,married,white
+978,21.000000,22,younger mom,39,full term,11.000000,40.000000,7.450000,not low,male,nonsmoker,married,white
+979,25.000000,20,younger mom,42,full term,10.000000,33.000000,7.310000,not low,male,nonsmoker,not married,white
+980,15.000000,18,younger mom,39,full term,6.000000,32.000000,6.640000,not low,female,nonsmoker,not married,white
+981,25.000000,21,younger mom,35,premie,10.000000,36.000000,5.580000,not low,female,nonsmoker,not married,white
+982,,23,younger mom,40,full term,3.000000,25.000000,5.870000,not low,female,nonsmoker,not married,not white
+983,30.000000,32,younger mom,39,full term,7.000000,38.000000,7.500000,not low,female,nonsmoker,not married,not white
+984,41.000000,29,younger mom,36,premie,11.000000,45.000000,5.820000,not low,female,nonsmoker,married,white
+985,,20,younger mom,37,full term,8.000000,36.000000,7.630000,not low,female,nonsmoker,not married,white
+986,28.000000,27,younger mom,39,full term,12.000000,41.000000,9.000000,not low,male,nonsmoker,not married,not white
+987,23.000000,17,younger mom,40,full term,12.000000,38.000000,8.050000,not low,male,smoker,not married,white
+988,38.000000,34,younger mom,37,full term,8.000000,31.000000,9.140000,not low,male,nonsmoker,married,white
+989,38.000000,36,mature mom,39,full term,12.000000,15.000000,8.190000,not low,male,nonsmoker,married,white
+990,20.000000,18,younger mom,39,full term,14.000000,0.000000,7.870000,not low,male,nonsmoker,not married,not white
+991,33.000000,34,younger mom,38,full term,16.000000,34.000000,9.370000,not low,male,nonsmoker,married,white
+992,36.000000,31,younger mom,39,full term,15.000000,28.000000,6.380000,not low,male,nonsmoker,not married,white
+993,33.000000,26,younger mom,38,full term,13.000000,34.000000,7.350000,not low,female,nonsmoker,married,white
+994,48.000000,32,younger mom,40,full term,8.000000,8.000000,9.000000,not low,female,nonsmoker,married,not white
+995,29.000000,24,younger mom,32,premie,8.000000,33.000000,2.330000,low,female,nonsmoker,married,white
+996,28.000000,24,younger mom,39,full term,,20.000000,6.490000,not low,male,,not married,not white
+997,37.000000,31,younger mom,38,full term,8.000000,33.000000,5.800000,not low,female,nonsmoker,married,white
+998,27.000000,27,younger mom,34,premie,7.000000,25.000000,6.750000,not low,female,nonsmoker,married,white
+999,,33,younger mom,42,full term,0.000000,13.000000,7.440000,not low,male,nonsmoker,not married,white
+1000,21.000000,17,younger mom,41,full term,12.000000,41.000000,7.130000,not low,female,nonsmoker,not married,white
