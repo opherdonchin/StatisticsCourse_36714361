@@ -1,0 +1,5 @@
+teen_education,parent_education,count
+college,parent_degree,231
+no college,parent_degree,49
+college,parent_no_degree,214
+no college,parent_no_degree,298
